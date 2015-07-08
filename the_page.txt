@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">    
+	<head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+	<title>ETF Finder - ETF Center - Yahoo Finance</title>
+	<meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="https://s.yimg.com"><link rel="dns-prefetch" href="//y3.analytics.yahoo.com"><link rel="dns-prefetch" href="//geo.query.yahoo.com"><link rel="dns-prefetch" href="//geo.yahoo.com"><link rel="dns-prefetch" href="//csc.beap.bc.yahoo.com"><link rel="dns-prefetch" href="//b.scorecardresearch.com"><link rel="dns-prefetch" href="//l.yimg.com"><link rel="dns-prefetch" href="//l1.yimg.com"><link rel="dns-prefetch" href="//l2.yimg.com"><link rel="dns-prefetch" href="//l3.yimg.com">
+	<!--[if !IE]><!--><link rel="icon" sizes="any" mask href="http://l.yimg.com/os/mit/media/p/common/images/favicon_new-7483e38.svg"><meta name="theme-color" content="#400090"><!--<![endif]--><!--[if !IE]><!--><link rel="alternate icon" type="image/x-icon" href="/favicon.ico"/><!--<![endif]-->
+	<meta name="keywords" lang="en-US" content="index fund indexing ishares spdr qubes streettracks diamonds vipers"/>
+	<meta name="description" lang="en-US" content="View ETFs by Fund Family, Category, Return, Volume, Holdings, Risk and Operations."/>
+	<link rel="canonical" href="http://finance.yahoo.com/etf/lists/"/>
+	<meta property="fb:app_id" content="90376669494"/>
+	<meta property="og:description" content="View ETFs by Fund Family, Category, Return, Volume, Holdings, Risk and Operations."/>
+	<meta property="og:image" content="http://l2.yimg.com/bt/api/res/1.2/6rik6AZwuPGCiADf_9dhPQ--/YXBwaWQ9eW5ld3M7cT03NTt3PTYwMA--/http://l.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png"/>
+	<meta property="og:site_name" content="Yahoo Finance"/>
+	<meta property="og:title" content="ETF Finder - ETF Center - Yahoo Finance"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content="http://finance.yahoo.com/etf/lists/"/>
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:description" content="View ETFs by Fund Family, Category, Return, Volume, Holdings, Risk and Operations."/>
+	<meta name="twitter:dnt" content="on"/>
+	<meta name="twitter:title" content="ETF Finder - ETF Center - Yahoo Finance"/>
+	<meta name="application-name" content="ETF Finder - ETF Center - Yahoo Finance"/>
+	<meta name="msapplication-TileColor" content="#6e329d"/>
+	<meta name="msapplication-TileImage" content="http://l.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png"/>
+	<link rel="apple-touch-icon"  href="http://l.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-1636137.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://l.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-high-1636137.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://l.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-tablet-1636137.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="http://l.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-tablet-high-1636137.png">
+	<link rel="apple-touch-icon-precomposed" href="http://l.yimg.com/os/mit/media/p/presentation/images/icons/default-apple-touch-icon-1636137.png">
+        
+
+                            <script>(function(){if(!Array.isArray) {var polyfill="http://l.yimg.com/os/mit/media/p/content/react-polyfill-min-341acea.js";if("" !== polyfill){var script = document.createElement('script');script.type = 'text/javascript';script.src = polyfill;document.getElementsByTagName('head')[0].appendChild(script);}}}());</script>
+                        
+
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/zz/combo?d/lib/yui/3.4.1/build/cssreset/cssreset-min.css&d/lib/yui/3.4.1/build/cssfonts/cssfonts-min.css&os/mit/media/p/presentation/grids/master-min-a143923.css&os/mit/media/p/presentation/grids/desktop-min-8723999.css&os/mit/media/p/presentation/base/master-min-8723999.css&os/mit/media/p/presentation/base/desktop-min-a143923.css&os/mit/media/p/content/other/react-sidekick-min-c3a1164.css&os/mit/media/m/navigation/content-navigation-desktop-min-a8a04a0.css&os/mit/media/m/navigation/content-navigation-stencil-desktop-min-a8a04a0.css&os/mit/media/m/ads/ads-min-81b3fea.css&os/mit/media/m/footer/footer_links-min-66303b2.css&os/mit/media/m/linkbox/linkbox-min-248956.css&os/mit/media/p/finance/site/worldwide-min-cb8bc17.css&os/mit/media/m/footer/footer_info-min-66303b2.css&os/mit/media/m/footer/footer_info-desktop-min-43b1bcf.css&os/mit/media/p/finance/site/footer-disclaimer-min-49df19c.css" />
+
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/zz/combo?os/mit/media/m/finance/finance_theme_override_nonglass-desktop-min-6867def.css&os/mit/media/m/finance/finance_stencil_override-min-6b487d2.css&os/mit/media/m/finance/common-gs-min-12d09cb.css&os/mit/media/m/finance/watchlist-gs-desktop-min-228a992.css&os/mit/media/m/finance/follow-quote-min-9f13aa8.css&os/mit/media/m/quotes/quotes-search-gs-desktop-min-d3800d6.css&os/mit/media/m/quotes/quotes-common-min-a978f16.css&os/mit/media/m/finance/disclaimer-gs-desktop-min-808a7c1.css" />
+
+<link rel="stylesheet" type="text/css" href="http://l.yimg.com/zz/combo?os/mit/media/themes/base/base-min-d6db390.css&os/mit/media/themes/base/base-imagery-min-d6db390.css&os/mit/media/themes/teal114b60/theme-min-ca8ef76.css&os/mit/media/themes/teal114b60/theme-imagery-min-e1a2a98.css&os/mit/media/p/finance/site/finance-min-9d4c277.css&os/mit/media/p/finance/lang/en-min-933aa75.css" />
+<style type="text/css">.yom-nav .nav .nav-0 li.fantasyfinance a{background:-moz-linear-gradient(center top,#FF6600 0pt,#B84000 100%) repeat scroll 0 0 #B84000;background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#FF6600),color-stop(1,#B84000)) repeat scroll 0 0 #B84000;}.yom-nav .nav .nav-0 li.fantasyfinance a:hover{background:none repeat scroll 0 0 #FF7810;} /* Elections 2012 Navigation */ .yom-nav .nav .nav-0 .nav-elex a { background: #C84646; background: -moz-linear-gradient(top, #C84646, #761B1B); background: -webkit-linear-gradient(top,#C84646, #761B1B); background:-ms-linear-gradient(top, #C84646, #761B1B); background:-o-linear-gradient(top, #C84646, #761B1B); background:linear-gradient(top, #C84646, #761B1B); } .yom-nav .nav .nav-0 .nav-elex a:hover { background: #761B1B; background: -moz-linear-gradient(top, #761B1B, #C84646); background: -webkit-linear-gradient(top,#761B1B, #C84646); background:-ms-linear-gradient(top, #761B1B, #C84646); background:-o-linear-gradient(top, #761B1B, #C84646); background:linear-gradient(top, #761B1B, #C84646); }.yog-page #mediasearchform, .yom-searchform, #quote {display: block !important;}.yom-bar {border: none;background-color: #fff;background-image: none;}.yom-bar .yog-wrap {border-bottom: 3px solid #3586a0;}.get-quotes input.get-quotes-button{background:-moz-linear-gradient(top, #3586a0 0, #307289 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #3586a0), color-stop(100%, #307289));background:-webkit-linear-gradient(top, #3586a0 0, #307289 100%);background:-o-linear-gradient(top, #3586a0 0, #307289 100%);background:-ms-linear-gradient(top, #3586a0 0, #307289 100%);background:linear-gradient(to bottom, #3586a0 0, #307289 100%);-webkit-box-shadow:0 2px 2px -2px rgba(0,0,0,0.5),inset 0 1px 3px 0 #27b1c5;box-shadow:0 2px 2px -2px rgba(0,0,0,0.5),inset 0 1px 3px 0 #27b1c5;background-color:#3586a0;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#3586a0,endColorstr=#307289,GradientType=0 );-ms-filter:"progid:DXImageTransform.Microsoft.gradient( startColorstr=#3586a0, endColorstr=#307289,GradientType=0 )";background-color:#3586a0 \0/IE9;-webkit-box-shadow:inset 0 1px 3px 0px #27b1c5 \0/IE9;box-shadow:inset 0 1px 3px 0px #27b1c5 \0/IE9;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;font-size: 11px;-webkit-font-smoothing: antialiased;font-weight:normal;color:#fff;}.ticker-search input.get-quotes-box {padding-left: 5px;background: none;border: 1px solid #919191;}input.get-quotes-box {width: 80px;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;font-size: 11px;-webkit-font-smoothing: antialiased;}#searchQuotes .search, #searchQuotes .ft a { display: none;}.yom-secondary .yom-ad { background: none} #td-applet-sidekick-tv_container {margin-bottom: 20px; margin-top: 20px;} #td-applet-sidekick-tv_container .W-15 {width: 15%;}</style>
+
+
+                        
+                        <style type="text/css">
+                      body.body-page-gs{
+                       -webkit-font-smoothing:antialiased
+                      }
+                        </style>
+                        
+                        
+
+<script type="text/javascript" src="http://l.yimg.com/zz/combo?yui:3.9.1/build/yui/yui-min.js&os/mit/media/p/common/rmp-min-56d3a2e.js&aj/lh-0.9.js&os/mit/media/m/base/viewport-loader-min-649ba6f.js&ss/rapid-3.23.1.js&os/mit/media/p/content/react-with-addons-min-098f019.js"></script>
+<script>if (!window.YAHOO) { window.YAHOO = {}; } if (!YAHOO.Media) { YAHOO.Media = {}; } if (!YAHOO.widget) { YAHOO.widget = {}; }</script>
+<script>if (!window.YMedia) { var YMedia = YUI(); YMedia.includes = []; YMedia.module_includes = []; }</script>
+<script>window.YMEDIA_REQ_ATTR = {device:{"os":"","osver":""},instr:{request_id:"8ius9ehapj9a9",authfb:0},csbeacon:function(isPjax, spaceId) { if(! this._hasIssuedCsBeacon || isPjax) { this._hasIssuedCsBeacon = true; var spaceId = spaceId || "1183331882",    ssl = "0";if(typeof YAHOO === "object" && typeof YAHOO.i13n === "object" && typeof YAHOO.i13n.sendComscoreEvent === "function") {if(YAHOO.i13n.setEga){YAHOO.i13n.setEga("");} if(YAHOO.i13n.setLTT){YAHOO.i13n.setLTT("-1");} if(YAHOO.i13n.setRdg){YAHOO.i13n.setRdg("");} if(YAHOO.i13n.setSpaceid){YAHOO.i13n.setSpaceid(spaceId);} YAHOO.i13n.setSsl("0");YAHOO.i13n.sendComscoreEvent(); } } },_hasIssuedCsBeacon:false};</script><noscript><div><img src="http://b.scorecardresearch.com/b?c1=2&c2=7241469&c7=finance.yahoo.com%2Fetf%2Flists%2F&c5=1183331882&c14=-1&cv=2.0&cj=1" style="display:none" width="0" height="0" alt="" /></div></noscript><script>window.YMEDIA_CRUMB = "";</script><!-- fe297.global.media.bf1.yahoo.com uncompressed/chunked Sun Jul  5 21:44:41 UTC 2015 -->
+
+<script>YUI.Env.add(window, 'unload', function() { try { YMEDIA_REQ_ATTR.csbeacon(); } catch (e) {} });</script>
+<script>
+                                window.YAHOO = window.YAHOO || {};
+                                window.YAHOO.i13n = window.YAHOO.i13n || {};
+
+                                YAHOO.i13n.beacon_server = "geo.yahoo.com";
+                                YAHOO.i13n.YWA_CF_MAP = {"act":19,"ct":20,"hpset":11,"intl":12,"lang":13,"mcode":24,"mid":21,"n":33,"outcm":22,"pkg":23,"pstaid":10,"pstcat":8,"pt":9,"so":32,"src_pty":36,"tar":28,"test":14,"tn":34,"tntw":17,"version":18,"woe":35};
+                                YAHOO.i13n.YWA_ACTION_MAP = {"hswipe":36,"nav_clicked":21};
+                                YAHOO.i13n.YWA_OUTCOME_MAP = {};
+                                
+                                YMedia.rapid = {
+                                    rapidConfig: {"spaceid":"1183331882","tracked_mods":["also-on-yahoo","mediafinancethemeoverride","mediafinanceredirect","mediadocsettings","mediafinancefooterdisclaimer","footer-info","footer-links","footer-sponsor","mediafinancefooterworldwide","mediadisclaimergs","mediaquotessearchgs","mediacontentnavigation","mediawatchlistgs","navigation","nav-footer","mediaquotessearch","mediafinancestenciloverride","trending"],"text_link_len":25,"client_only":1,"compr_type":"deflate","ult_token_capture":true,"webworker_file":"\/__rapid-worker-1.2.js","test_id":"","keys":{"ssl":"0","intl":"US","lang":"en-US","pcp":"","pstaid":"","pstcat":"personalfinance|ratesinyourarea","pstth":"","pt":"sections","ptopic":"","revsp":"","version":"lego"},"debug":false,"nofollow_class":["rapid-nf","yui-carousel","yui-carousel-next","yui-carousel-prev","yui-carousel-button","yom-button","boba-lightbox-off","more-inline","fin-button"]},
+                                    rapidInstance: null,
+                                    moduleQueue: [],
+                                    addModules: function(modInfo) {
+                                        this.moduleQueue.push(modInfo);
+                                    }
+                                };
+                            </script>
+
+        <script language="javascript">
+        
+YUI.YUICfg = {"gallery":"yui:gallery-2011.04.20-13-04","groups":{"group01c9d8dea06e05460a64eed4dadd622b6":{"base":"http:\/\/l.yimg.com\/","comboBase":"http:\/\/l.yimg.com\/zz\/combo?","modules":{"media-imageloader":{"path":"os\/mit\/media\/m\/base\/imageloader-min-649ba6f.js"},"media-imageloader-bootstrap":{"path":"os\/mit\/media\/m\/base\/imageloader-bootstrap-min-649ba6f.js"},"media-af-beacon":{"path":"os\/mit\/media\/p\/common\/af-beacon-min-4e5a259.js"},"media-rapid-tracking":{"path":"os\/mit\/media\/p\/common\/rapid-tracking-min-913be2c.js"}},"combine":true,"filter":"min","root":"\/"}},"combine":true,"allowRollup":true,"comboBase":"http:\/\/l.yimg.com\/zz\/combo?","maxURLLength":"2000"}
+YUI.YUICfg.root='yui:'+YUI.version+'/build/';
+YMedia.applyConfig(YUI.YUICfg);
+YUI.Env[YUI.version].base = 'http://l.yimg.com/';
+YUI.Env[YUI.version].comboBase = 'http://l.yimg.com/zz/combo?';
+YUI.Env[YUI.version].root = 'yui:'+YUI.version+'/build/';
+YMedia.use("media-rmp","media-viewport-loader","dom-deprecated","node-deprecated","substitute","media-imageloader","media-imageloader-bootstrap","base-base","node-style","node-screen","event-custom","media-af-beacon","json-stringify","querystring-stringify-simple","media-rapid-tracking","base","node","node-base","intl",function(Y){
+          
+    Y.later(10, this, function() {Y.applyConfig({debug: false});});
+    Y.later(10, this, function() {
+                YUI.namespace("Media").LANGDIR='ltr';
+                YUI.namespace("Media").CONTENT_ID = "fdba9e4e-3aa6-34be-9128-967aede2b52a";
+                });
+    Y.later(10, this, function() {Y.namespace("Global.Media").ILBoot = new Y.ImageLoaderBootstrap(200);});
+    Y.later(10, this, function() {// create RapidTracking object reusing existing moduleQueue
+                            YMedia.rapid = new Y.Media.RapidTracking({
+                                instance:    YMedia.rapid && YMedia.rapid.rapidInstance,
+                                moduleQueue: YMedia.rapid && YMedia.rapid.moduleQueue,
+                                rapidConfig: YMedia.rapid && YMedia.rapid.rapidConfig,
+                                config: {
+                                    selectors: {
+                                        'bd'   : 'body',
+                                        'mods' : '.yom-mod'
+                                    }
+                                }
+                            });});
+    Y.later(10, this, function() {if (Y.Media && Y.Media.HeaderUH3) {
+                    Y.Media.HeaderUH3(Y,
+                    {
+                        version: 'classic'
+                    });
+                };});
+    Y.later(10, this, function() {var darla_version_0_4_0 = "0",
+                            darlaVersion = "2-8-9", darla_version = 1,
+                            darla_type = "2";
+                        if (darla_version_0_4_0 == '1') {
+                            darla_version = darlaVersion && 0 === darlaVersion.indexOf('2') ? 2 : 1;
+                        }else{
+                            darla_version = darla_type;
+                        }
+                        if (darla_version >= 2) {
+                            LIGHTBOX_DARLA_CONFIG = {"useYAC":0,"usePE":0,"servicePath":"http:\/\/finance.yahoo.com\/__darla\/php\/fc.php","xservicePath":"","beaconPath":"http:\/\/finance.yahoo.com\/__darla\/php\/b.php","renderPath":"","allowFiF":false,"srenderPath":"http:\/\/l.yimg.com\/rq\/darla\/2-8-9\/html\/r-sf.html","renderFile":"http:\/\/l.yimg.com\/rq\/darla\/2-8-9\/html\/r-sf.html","sfbrenderPath":"http:\/\/l.yimg.com\/rq\/darla\/2-8-9\/html\/r-sf.html","msgPath":"http:\/\/finance.yahoo.com\/__darla\/2-8-9\/html\/msg.html","cscPath":"http:\/\/l.yimg.com\/rq\/darla\/2-8-9\/html\/r-csc.html","root":"__darla","edgeRoot":"http:\/\/l.yimg.com\/rq\/darla\/2-8-9","sedgeRoot":"https:\/\/s.yimg.com\/rq\/darla\/2-8-9","version":"2-8-9","tpbURI":"","hostFile":"http:\/\/l.yimg.com\/rq\/darla\/2-8-9\/js\/g-r-min.js","beaconsDisabled":true,"rotationTimingDisabled":true};
+                        }
+                        if (YMedia) {
+                            YMedia.DarlaVersion = darla_version;
+                        }});
+           
+});
+
+        
+        </script>
+
+	
+    </head>
+    <body
+    dir="ltr" class="body-page-gs no-js yog-ltr  ">
+        <div id="fb-root"></div>
+        <script type="text/javascript">document.body.className = document.body.className.replace('no-js', 'js'); document.body.offsetHeight;</script>
+        <div class="yog-page yog-page-gs gsg-1">
+        	<header id="yfi-header"><div id="yog-hd" class="yog-hd header">        
+				
+                <div id="header" class="yom-header yog-grid" role="banner"><link rel="stylesheet" type="text/css" href="http://l.yimg.com/zz/combo?kx/yucs/uh3/uh/1132/css/uh_non_mail-min.css&kx/yucs/uh3s/atomic/60/css/atomic-min.css&kx/yucs/uh_common/meta/3/css/meta-min.css&kx/yucs/uh3/top-bar/366/css/no_icons-min.css&kx/yucs/uh3/search/css/588/blue_border-min.css&kx/yucs/uh3/get-the-app/151/css/get_the_app-min.css"/>
+
+<style>#header,#y-hd,#hd .yfi_doc,#yfi_hd{background:#fff !important}#yfin_gs #yfimh #yucsHead,#yfin_gs #yfi_doc #yucsHead,#yfin_gs #yfi_fp_hd #yucsHead,#yfin_gs #y-hd #yucsHead,#yfin_gs #yfi_hd #yucsHead,#yfin_gs #yfi-doc #yucsHead{-webkit-box-shadow:0 0 9px 0 #490f76 !important;-moz-box-shadow:0 0 9px 0 #490f76 !important;box-shadow:0 0 9px 0 #490f76 !important;border-bottom:1px solid #490f76 !important}#yog-hd,#yfi-hd,#ysp-hd,#hd,#yfimh,#yfi_hd,#yfi_fp_hd,#masthead,#yfi_nav_header #navigation,#y-nav #navigation,.ad_in_head{background-color:#fff;background-image:none}#header,#hd .yfi_doc,#y-hd .yfi_doc,#yfi_hd .yfi_doc{width:100% !important}#yucs{margin:0 auto;width:970px}#yfi_nav_header,.y-nav-legobg,#y-nav #navigation{margin:0 auto;width:970px}#yucs .yucs-avatar{height:22px;width:22px}#yucs #yucs-profile_text .yuhead-name-greeting{display:none}#yucs #yucs-profile_text .yuhead-name{top:0;max-width:65px}#yucs-profile_text{max-width:65px}#yog-bd .yom-stage{background:transparent}#yog-hd{height:84px}.yog-bd,.yog-grid{padding:4px 10px}.nav-stack ul.yog-grid{padding:0}#yucs #yucs-search.yucs-bbb .yucs-button_theme{background:-moz-linear-gradient(top, #01a5e1 0, #0297ce 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #01a5e1), color-stop(100%, #0297ce));background:-webkit-linear-gradient(top, #01a5e1 0, #0297ce 100%);background:-o-linear-gradient(top, #01a5e1 0, #0297ce 100%);background:-ms-linear-gradient(top, #01a5e1 0, #0297ce 100%);background:linear-gradient(to bottom, #01a5e1 0, #0297ce 100%);-webkit-box-shadow:inset 0 1px 3px 0 #01c0eb;box-shadow:inset 0 1px 3px 0 #01c0eb;background-color:#019ed8;background-color:transparent\0/IE9;background-color:transparent\9;*background:none;border:1px solid #595959;padding-left:0px;padding-right:0px}#yucs #yucs-search.yucs-bbb #yucs-prop_search_button_wrapper .yucs-gradient{filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#01a5e1', endColorstr='#0297ce',GradientType=0 );-ms-filter:"progid:DXImageTransform.Microsoft.gradient( startColorstr='#01a5e1', endColorstr='#0297ce',GradientType=0 )";background-color:#019ed8\0/IE9}#yucs #yucs-search.yucs-bbb #yucs-prop_search_button_wrapper{*border:1px solid #595959}#yucs #yucs-search .yucs-button_theme{background:#0f8ed8;border:0;box-shadow:0 2px #044e6e}@media all{#yucs.yucs-mc,#yucs-top-inner{width:auto !important;margin:0 !important}#yucsHead{_text-align:left !important}#yucs-top-inner,#yucs.yucs-mc{min-width:970px !important;max-width:1240px !important;padding-left:10px !important;padding-right:10px !important}#yucs.yucs-mc{_width:970px !important;_margin:0 !important}#yucsHead #yucs .yucs-fl-left #yucs-search{position:absolute;left:190px !important;max-width:none !important;margin-left:0;_left:190px;_width:510px !important}.yog-ad-billboard #yucs-top-inner,.yog-ad-billboard #yucs.yucs-mc{max-width:1130px !important}#yucs .yog-cp{position:inherit}}#yucs #yucs-logo{width:150px !important;height:34px !important}#yucs #yucs-logo div{width:94px !important;margin:0 auto !important}.lt #yucs-logo div{background-position:-121px center !important}#yucs-logo a{margin-left:-13px !important}</style><style>#yog-hd .yom-bar, #yog-hd .yom-nav, #y-nav, #hd .ysp-full-bar,  #yfi_nav_header, #hd .mast {
+float: none;
+width: 970px;
+margin: 0 auto;
+}
+
+#yog-bd .yom-stage {
+background: transparent;
+}
+
+#y-nav .yom-nav {
+padding-top: 0px;
+}
+
+#ysp-search-assist .bd {
+display:none;
+}
+
+#ysp-search-assist h4 {
+padding-left: 8px;
+}
+
+
+    #yfi-portfolios-multi-quotes #y-nav, #yfi-portfolios-multi-quotes #navigation, #yfi-portfolios-multi-quotes .y-nav-legobg, 
+    #yfi-portfolios-my-portfolios #y-nav, #yfi-portfolios-my-portfolios #navigation, #yfi-portfolios-my-portfolios .y-nav-legobg {
+        width : 100%;
+    }</style> <div id="yucsHead" class="yucs-finance yucs-en-us  yucs-standard"><!-- meta --><div id="yucs-meta" data-authstate="signedout" data-cobrand="standard" data-crumb="" data-mc-crumb="" data-gta="" data-device="desktop" data-experience="GS" data-firstname="" data-style="" data-flight="1436132682" data-forcecobrand="standard" data-guid="" data-host="finance.yahoo.com" data-https="0" data-languagetag="en-us" data-property="finance" data-protocol="http" data-shortfirstname="" data-shortuserid="" data-status="active" data-spaceid="1183331882" data-test_id="" data-userid="" data-stickyheader="true" data-headercollapse="" data-uh-test="acctswitch" ></div><!-- /meta --><div id="yucs-comet" style="display:none;"></div><div id="yucs-disclaimer" class="yucs-disclaimer yucs-activate yucs-hide yucs-property-finance yucs-fcb- " data-cobrand="standard" data-cu = "0" data-dsstext="Want a better search experience? {dssLink}Set your Search to Yahoo{linkEnd}" data-dsstext-mobile="Search Less, Find More" data-dsstext-mobile-ok="OK" data-dsstext-mobile-set-search="Set Search to Yahoo" data-dssstbtext="Yahoo is the preferred search engine for Firefox. Switch now." data-dssstb-ok="Yes" data-dssstb-no="Not Now" data-ylt-link="https://search.yahoo.com/searchset?pn=" data-ylt-dssbarclose="/" data-ylt-dssbaropen="/" data-ylt-dssstb-link="https://downloads.yahoo.com/sp-firefox" data-ylt-dssstbbarclose="/" data-ylt-dssstbbaropen="/" data-ylt-dssCookieCleanedSuccess="/" data-ylt-dssCookieCleanedFailed="/" data-linktarget="_top" data-lang="en-us" data-property="finance" data-device="Desktop" data-close-txt="Close this window" data-maybelater-txt = "Maybe Later" data-killswitch = "0" data-host="finance.yahoo.com" data-spaceid="1183331882" data-pn="" data-dss-cookie-cleanup="" data-pn-en-ca-mobile-frontpage="" data-pn-de-de-mobile-frontpage="" data-pn-es-es-mobile-frontpage="" data-pn-fr-fr-mobile-frontpage="" data-pn-en-in-mobile-frontpage="" data-pn-it-it-mobile-frontpage="" data-pn-en-us-mobile-frontpage="" data-pn-en-sg-mobile-frontpage="" data-pn-en-gb-mobile-frontpage="" data-pn-en-us-mobile-mail="" data-pn-en-ca-mobile-mail="" data-pn-de-de-mobile-mail="" data-pn-es-es-mobile-mail="" data-pn-fr-fr-mobile-mail="" data-pn-en-in-mobile-mail="" data-pn-it-it-mobile-mail="" data-pn-en-sg-mobile-mail="" data-pn-en-gb-mobile-mail="" data-pn-pt-br-mobile-mail="" data-pn-en-us-tablet-frontpage="" data-pn-en-us-tablet-mail="" data-pn-en-ca-tablet-mail="" data-pn-de-de-tablet-mail="" data-pn-es-es-tablet-mail="" data-pn-fr-fr-tablet-mail="" data-pn-en-in-tablet-mail="" data-pn-it-it-tablet-mail="" data-pn-en-sg-tablet-mail="" data-pn-en-gb-tablet-mail="" data-pn-pt-br-tablet-mail="" data-news-search-yahoo-com="" data-answers-search-yahoo-com="" data-finance-search-yahoo-com="" data-images-search-yahoo-com="" data-video-search-yahoo-com="" data-sports-search-yahoo-com="" data-shopping-search-yahoo-com="" data-shopping-yahoo-com="" data-us-qa-trunk-news-search-yahoo-com ="" data-dss="1"></div>  <div id="yucs-top-bar" class='yucs-ps' ><div id='yucs-top-inner'><ul id="yucs-top-list"><li id="yucs-top-home"><a href="https://www.yahoo.com/" ><span class="sp yucs-top-ico"></span>Home</a></li><li id="yucs-top-mail"><a href="https://mail.yahoo.com/?.intl=us&.lang=en-US&.src=ym" >Mail</a></li><li id="yucs-top-search"><a href="https://search.yahoo.com/search" >Search</a></li><li id="yucs-top-news"><a href="http://news.yahoo.com/" >News</a></li><li id="yucs-top-sports"><a href="http://sports.yahoo.com/" >Sports</a></li><li id="yucs-top-finance"><a href="http://finance.yahoo.com/" >Finance</a></li><li id="yucs-top-weather"><a href="https://weather.yahoo.com/" >Weather</a></li><li id="yucs-top-games"><a href="https://games.yahoo.com/" >Games</a></li><li id="yucs-top-answers"><a href="https://answers.yahoo.com/" >Answers</a></li><li id="yucs-top-screen"><a href="https://screen.yahoo.com/" >Screen</a></li><li id="yucs-top-flickr"><a href="https://www.flickr.com/" >Flickr</a></li><li id="yucs-top-mobile"><a href="https://mobile.yahoo.com/" >Mobile</a></li><li id='yucs-more' class='yucs-menu yucs-more-activate' data-ylt="/"><a href="http://everything.yahoo.com/" id='yucs-more-link'>More<span class="sp yucs-top-ico"></span></a><div id='yucs-top-menu'><div class="yui3-menu-content"><ul class="yucs-hide yucs-leavable"><li id='yucs-top-politics'><a href="https://www.yahoo.com/politics" >Politics</a></li><li id='yucs-top-celebrity'><a href="https://celebrity.yahoo.com/" >Celebrity</a></li><li id='yucs-top-movies'><a href="https://www.yahoo.com/movies" >Movies</a></li><li id='yucs-top-music'><a href="https://www.yahoo.com/music" >Music</a></li><li id='yucs-top-tv'><a href="https://www.yahoo.com/tv" >TV</a></li><li id='yucs-top-groups'><a href="https://groups.yahoo.com/" >Groups</a></li><li id='yucs-top-health'><a href="https://www.yahoo.com/health" >Health</a></li><li id='yucs-top-style'><a href="https://www.yahoo.com/style" >Style</a></li><li id='yucs-top-beauty'><a href="https://www.yahoo.com/beauty" >Beauty</a></li><li id='yucs-top-food'><a href="https://www.yahoo.com/food" >Food</a></li><li id='yucs-top-parenting'><a href="https://www.yahoo.com/parenting" >Parenting</a></li><li id='yucs-top-makers'><a href="https://www.yahoo.com/makers" >Makers</a></li><li id='yucs-top-tech'><a href="https://www.yahoo.com/tech" >Tech</a></li><li id='yucs-top-shopping'><a href="http://shopping.yahoo.com/" >Shopping</a></li><li id='yucs-top-travel'><a href="https://www.yahoo.com/travel" >Travel</a></li><li id='yucs-top-autos'><a href="https://autos.yahoo.com/" >Autos</a></li><li id='yucs-top-homes'><a href="https://homes.yahoo.com/own-rent/" >Homes</a></li></ul></div></div></li></ul></div><style>#yucs-top-ff-promo { position:absolute; right:0; right:auto\9; left:950px\9; right:auto\9\0; left:auto\9\0; margin-right:18px; display:block; white-space: nowrap; z-index:15001;}#yucs-top-ff-promo img { border: none; height: 15px; width: 15px;}#yucs-top-ff-promo a span { text-decoration: none; display: inline-block;}#yucs-ff-img { vertical-align: middle; padding-right: 4px;}@media screen and (max-width:1150px) { #yucs-top-bar #yucs-top-ff-promo { right: auto; left:950px; }}</style><li id='yucs-top-ff-promo' class="yucs-hide"><a href="https://www.mozilla.org/firefox/new/?utm_source=yahoo&utm_medium=referral&utm_campaign=y-uh&utm_content=y-finance-try" target="_blank"><img id="yucs-ff-img" src='https://s.yimg.com/kx/yucs/uh3s/promo-ff/1/images/ff_icon-compressed.png' width="15" height="15" alt="Firefox" />Try Yahoo Finance on Firefox<span>&nbsp;&raquo;</span></a></li><script> var s = false, ts,re2,sdts,v2= null, cookies = "; " + document.cookie, dss = cookies.split("; DSS="), m, ua = window.navigator.userAgent.toLowerCase(); m = ua.match(/firefox\/(\d+)/); if (!m || (m && m[1] && parseInt(m[1]) < 34)) { if (ua.indexOf('version') >= 0 && ua.indexOf('crios') < 0) { s = true; } if (!!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0) { s = true; } if (dss && dss.length === 2) { re2 = new RegExp('sdts=(\\d+)'); v2 = re2.exec(dss[1]); if (v2 && v2.length === 2) { sdts = v2[1]; } if (sdts && (parseInt(new Date().getTime()) - sdts) < 60480000) { s = true; } } if (!s) { m = document.getElementById('yucs-top-ff-promo'); m.className = m.className.replace(/yucs-hide/g,''); } }</script></div><div id="yucs" class="yucs yucs-mc  yog-grid" data-lang="en-us" data-property="finance" data-flight="1436132682" data-linktarget="_top" data-uhvc="/"> <div class="yucs-fl-left yog-cp">   <div id="yucs-logo"> <style> #yucs #yucs-logo-ani { width:120px ; height:34px; background-image:url(https://s.yimg.com/rz/l/yahoo_finance_en-US_f_pw_119x34.png) ; _background-image:url(https://s.yimg.com/rz/l/yahoo_finance_en-US_f_pw_119x34.gif) ; *left: 0px; display:block ; visibility: visible; position: relative; clip: auto; } .lt #yucs-logo-ani { background-position: 100% 0px !important; } .lt #yucs[data-property='mail'] #yucs-logo-ani { background-position: -350px 0px !important; } #yucs-logo { margin-top:0px!important; padding-top: 11px; width: 120px; } #yucs[data-property='homes'] #yucs-logo { width: 102px; } .advisor #yucs-link-ani { left: 21px !important; } #yucs #yucs-logo a {margin-left: 0!important;}#yucs #yucs-link-ani {width: 100% !important;} @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and ( min--moz-device-pixel-ratio: 2), only screen and ( -o-min-device-pixel-ratio: 2/1), only screen and ( min-device-pixel-ratio: 2), only screen and ( min-resolution: 192dpi), only screen and ( min-resolution: 2dppx) { #yucs #yucs-logo-ani { background-image: url(https://s.yimg.com/rz/l/yahoo_finance_en-US_f_pw_119x34_2x.png) !important; background-size: 235px 34px; } } </style> <div> <a id="yucs-logo-ani" class="" href="http://finance.yahoo.com" target="_top" data-alg=""> Yahoo Finance </a> </div> <img id="imageCheck" src="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" alt=""/> </div><noscript><style>#yucs #yucs-logo-ani {visibility: visible;position: relative;clip: auto;}</style></noscript> <div id="yucs-search" style="width: 570px; display: block;" class=' yucs-search-activate'> <form role="search" class="yucs-search yucs-activate" target="_top" data-webaction="https://search.yahoo.com/search" action="http://finance.yahoo.com/q" method="get"> <table role="presentation"> <tbody role="presentation"> <tr role="presentation"> <td class="yucs-form-input" role="presentation"> <input autocomplete="off" class="yucs-search-input" name="s" type="search" aria-describedby="mnp-search_box" data-yltvsearch="http://finance.yahoo.com/q" data-yltvsearchsugg="/" data-satype="mini" data-gosurl="https://s.yimg.com/aq/autoc" data-pubid="666" data-enter-ylt="http://finance.yahoo.com/q" data-enter-fr="" data-maxresults="" id="mnp-search_box" data-rapidbucket=""/> </td><td NOWRAP class="yucs-form-btn" role="presentation"><div id="yucs-prop_search_button_wrapper" class="yucs-search-buttons"><div class="yucs-shadow"><div class="yucs-gradient"></div></div><button id="yucs-sprop_button" class="yucs-action_btn yucs-button_theme yucs-vsearch-button" type="submit" data-vfr="uh3_finance_vert_gs" onclick="var vfr = this.getAttribute('data-vfr'); if(vfr){document.getElementById('fr').value = vfr}" data-vsearch="http://finance.yahoo.com/q">Search Finance</button></div><div id="yucs-web_search_button_wrapper" class="yucs-search-buttons"><div class="yucs-shadow"><div class="yucs-gradient"></div></div><button id="yucs-search_button" class="yucs-action_btn yucs-wsearch-button" onclick="var form=document.getElementById('yucs-search').children[0];var wa=form.getAttribute('data-webaction');form.setAttribute('action',wa);var searchbox=document.getElementById('mnp-search_box');searchbox.setAttribute('name','p');" type="submit">Search Web</button></div></td></tr> </tbody> </table> <input type="hidden" id="uhb" name="uhb" value="uhb2" /> <input type="hidden" id="fr" name="fr" value="uh3_finance_web_gs" />   </form><div id="yucs-satray" class="sa-tray sa-hidden" data-wstext="Search Web for: " data-wsearch="https://search.yahoo.com/search" data-vfr="uh3_finance_vert_gs" data-vsearchAll="/" data-vsearch="http://finance.yahoo.com/q" data-vstext= "Search news for: " data-vert_fin_search="https://finance.search.yahoo.com/search/"></div> </div></div><div class="yucs-fl-right"> <div id="yucs-profile" class="yucs-profile yucs-signedout"> <a id="yucs-menu_link_profile_signed_out" href="https://login.yahoo.com/config/login?.src=quote&.intl=us&.lang=en-US&.done=http://finance.yahoo.com/etf/lists/%3fmod_id=mediaquotesetf%26amp%3bamp%3btab=tab3%26amp%3bamp%3brcnt=20%26amp%3bamp%3b_classic=1" target="_top" rel="nofollow" class="sp yucs-fc" aria-label="Profile"> </a> <div id="yucs-profile_text" class="yucs-fc"> <a id="yucs-login_signIn" href="https://login.yahoo.com/config/login?.src=quote&.intl=us&.lang=en-US&.done=http://finance.yahoo.com/etf/lists/%3fmod_id=mediaquotesetf%26amp%3bamp%3btab=tab3%26amp%3bamp%3brcnt=20%26amp%3bamp%3b_classic=1" target="_top" rel="nofollow" class="yucs-fc"> Sign In </a> </div></div><div class="yucs-mail_link yucs-mailpreview-ancestor"><a id="yucs-mail_link_id" class="sp yltasis yucs-fc" href="https://mail.yahoo.com/?.intl=us&.lang=en-US&.src=ym" rel="nofollow" target="_top"> Mail <span class="yucs-activate yucs-mail-count yucs-hide yucs-alert-count-con" data-uri-scheme="https" data-uri-path="mg.mail.yahoo.com/mailservices/v1/newmailcount" data-authstate="signedout" data-crumb="" data-mc-crumb=""><span class="yucs-alert-count"></span></span></a><div class="yucs-mail-preview-panel yucs-menu yucs-hide" data-mail-txt="Mail" data-uri-scheme="http" data-uri-path="ucs.query.yahoo.com/v1/console/yql" data-mail-view="Go to Mail" data-mail-help-txt="Help" data-mail-help-url="http://help.yahoo.com/l/us/yahoo/mail/ymail/" data-mail-loading-txt="Loading..." data-languagetag="en-us" data-mrd-crumb="" data-authstate="signedout" data-middleauth-signin-text="Click here to view your mail" data-popup-login-url="https://login.yahoo.com/config/login_verify2?.pd=c%3DOIVaOGq62e5hAP8Tv..nr5E3&.src=sc" data-middleauthtext="You have {count} new messages." data-yltmessage-link="https://mrd.mail.yahoo.com/msg?mid={msgID}&fid=Inbox&src=uh&.crumb=" data-yltviewall-link="https://mail.yahoo.com/" data-yltpanelshown="/" data-ylterror="/" data-ylttimeout="/" data-generic-error="We're unable to preview your mail.<br>Go to Mail." data-nosubject="[No Subject]" data-timestamp='short'></div></div> <div id="yucs-help" class="yucs-activate yucs-help yucs-menu_nav"> <a id="yucs-help_button" class="sp yltasis" href="javascript:void(0);" aria-label="Help" rel="nofollow"> <em class="yucs-hide yucs-menu_anchor">Help</em> </a> <div id="yucs-help_inner" class="yucs-hide yucs-menu yucs-hm-activate" data-yltmenushown="/"> <span class="sp yucs-dock"></span> <ul id="yuhead-help-panel"> <li><a class="yucs-acct-link" href="https://login.yahoo.com/account/personalinfo?.intl=us&.lang=en-US&.done=http://finance.yahoo.com/etf/lists/%3fmod_id=mediaquotesetf%26amp%3bamp%3btab=tab3%26amp%3bamp%3brcnt=20%26amp%3bamp%3b_classic=1&amp;.src=quote&amp;.intl=us&amp;.lang=en-US" target="_top">Account Info</a></li> <li><a href="https://help.yahoo.com/l/us/yahoo/finance/" rel="nofollow" >Help</a></li> <span class="yucs-separator" role="presentation" style="display: block;"></span><li><a href="http://feedback.yahoo.com/forums/207809" rel="nofollow" >Suggestions</a></li>  </ul> </div></div>  <div id="yucs-network_link"><a id="yucs-home_link" href="https://www.yahoo.com/" rel="nofollow" target="_top"><em class="sp">Yahoo</em><span class="yucs-fc">Home</span></a></div>  <!-- empty breaking news component -->     </div>   </div> <div id="yucs-location-js" class="yucs-hide yucs-offscreen yucs-location-activate" data-appid="yahoo.locdrop.ucs.desktop" data-crumb=""><!-- empty for ie --></div><div id="yUnivHead" class="yucs-hide"><!-- empty --></div><div id="yhelp_container" class="yui3-skin-sam"></div></div><!-- alert --><!-- /alert -->
+<script>YMedia.use("event", "get", function(Y){ Y.once("load", function(){ Y.Get.js("http://l.yimg.com/zz/combo?kx/yucs/uh3/uh/1078/js/uh-min.js&kx/yucs/uh3/uh/1078/js/gallery-jsonp-min.js&kx/yucs/uh3/uh/1134/js/menu_utils_v3-min.js&kx/yucs/uh3/uh/1078/js/localeDateFormat-min.js&kx/yucs/uh3/uh/1078/js/timestamp_library_v2-min.js&kx/yucs/uh3/uh/1104/js/logo_debug-min.js&kx/yucs/uh3/switch-theme/6/js/switch_theme-min.js&kx/yucs/uhc/meta/66/js/meta-min.js&kx/yucs/uh_common/beacon/18/js/beacon-min.js&kx/yucs/uh2/comet/84/js/cometd-yui3-min.js&kx/yucs/uh2/comet/84/js/conn-min.js&kx/yucs/uh2/comet/84/js/dark-test-min.js&kx/yucs/uh3/disclaimer/384/js/disclaimer_seed-min.js&kx/yucs/uh3/top-bar/321/js/top_bar_v3-min.js&kx/yucs/uh3/search/598/js/search-min.js&kx/yucs/uh3/search/611/js/search_plugin-min.js&kx/yucs/uh2/common/145/js/jsonp-super-cached-min.js&kx/yucs/uh3/avatar/31/js/avatar-min.js&kx/yucs/uh3/mail-link/96/js/mailcount_ssl-min.js&kx/yucs/uh3/help/83/js/help_menu_v3-min.js&kx/yucs/uhc/rapid/41/js/uh_rapid-min.js&kx/yucs/uh3/get-the-app/148/js/inputMaskClient-min.js&kx/yucs/uh3/get-the-app/160/js/get_the_app-min.js&kx/yucs/uh3/location/10/js/uh_locdrop-min.js"); }); });</script><!-- fe291.global.media.bf1.yahoo.com uncompressed/chunked Sun Jul  5 21:44:41 UTC 2015 -->
+</div>
+		        
+                <?xml version="1.0" encoding="utf-8"?><Root></Root>
+                <?xml version="1.0" encoding="utf-8"?><Root></Root>
+            </div></header>
+            <div id="yog-bd" class="yog-bd">
+                <div id="yog-fin-container" class="yog-wrap">
+                    <div id="yog-sp" class="yog-sp">
+                        <div id="yog-sw" class="yog-sw">
+                                <div class="yom-remote"><div class="yom-loading" id="mediamarkettimegs_container"><!-- --></div></div>
+                        </div>
+                    </div>
+                    <div id="yog-nav" class="yog-fin-leftcol yog-nav">
+                        <div id="yog-fin-nav" class="yog-fin-nav">
+                            <div id="yog-fin-nav" class="yog-fin-nav">
+                                <div id="mediaquotesetf" class="yom-mod yom-app yom-recent-quote watchlist-app fin-glass-disabled " data-ylk="sec:wtchlst-lhnav;">
+    <div class='hd Pos-r'>
+        <div class='wl-title'>
+
+            <h2 class='no-portfolios-header Fw-200 Fz-m M-0 Fl-start Ell Va-t'>Recent</h2>
+        </div>
+
+        <div class='wl-display-toggle Pos-a B-0 End-0 Mb-2 Fz-xs C-darkGrey D-n'>
+            <a href='#' class='positive-link selected interactive-click' data-watchlist-display='percent'>%</a> |
+            <a href='#' class='positive-link interactive-click' data-watchlist-display='price'>$</a>
+        </div>
+    </div>
+    <div class='watchlist-quotes-section FastTrans watchlist-display-percent no-quotes-found  show-two-columns'>
+
+            <div class='bd Pos-r'>
+                <div>
+                    <table class='quotes-table M-0 Tbl-f'>
+                        <tbody>
+                            <tr class='empty Fz-xs Fw-400'>
+                                <td colspan="2">
+                                    Quotes you view appear here for quick access.
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            
+
+    </div>
+</div>
+<script>YMedia.use("event-custom", function(Y) { Y.on("rapid:init", function(){ var rapid = YMedia.rapid; if (rapid) { rapid.addModules("mediawatchlistgs"); } } ); } );</script><!-- fe294.global.media.bf1.yahoo.com uncompressed/chunked Sun Jul  5 21:44:41 UTC 2015 -->
+
+                                <div id="mediaquotessearchgs" class="yom-mod yom-quotes-search " mode="search">
+<div class="bd">
+    <form accept-charset="UTF-8" method="GET" action="/q" name="quote" id="quote" class="get-quotes has-button">
+        <i class='magIcon'></i>
+        <input placeholder="Quote Lookup" type="text" autocomplete="off" value="" name="s" id="txtQuotes" class="get-quotes-box">
+        <input type="hidden" autocomplete="off" value="1" name="ql" id="get_quote_logic_opt">
+        <input type="submit" class="get-quotes-button rapid-nf Bdrs"  value="Go" id="btnQuotes"> 
+    </form>
+    <script>
+        var tempInputElem = document.createElement('input');
+        var isPlaceHolder = ('placeholder' in tempInputElem);
+        if (!isPlaceHolder) {
+            YUI().use('node', function (Y) {
+                var acInputBoxEl = Y.one("#txtQuotes");
+                var placeHolderValue = acInputBoxEl.getAttribute('placeholder');
+                var preInitVal = acInputBoxEl.get('value');
+                acInputBoxEl.on("focus", function() {
+                    acInputBoxEl.set('value', '');
+                    acInputBoxEl.removeClass("hint");
+                });
+                acInputBoxEl.on("blur", function() {
+                    var value = acInputBoxEl.get('value');
+                    if (value === null || value.length === 0) {
+                        acInputBoxEl.set('value', placeHolderValue);
+                        acInputBoxEl.addClass("hint");
+                    }
+
+                });
+
+                if (preInitVal === undefined || preInitVal.length === 0 || preInitVal === placeHolderValue) {
+                    acInputBoxEl.set('value', placeHolderValue);
+                    acInputBoxEl.addClass("hint");
+                }
+            });
+        }
+    </script>
+    <div id="quoteContainer" class="yui-ac-container yui3-aclist" style="display:none">
+        <div class="yui-ac-content yui3-aclist-content">
+            <div class="yui-ac-hd" style="display: none;"></div>
+            <div class="yui-ac-bd">
+                <ul id="resQuotes"></ul>
+            </div>
+            <div class="yui-ac-ft">
+                <div class="moreresults">
+                    <a href="javascript:;"></a>
+                </div>
+                <div class="tip"><em>Tip :</em> Use comma (,) to separate multiple quotes. <a href="http://help.yahoo.com/l/us/yahoo/finance/quotes/quotelookup.html">Learn more...</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+                                <div id="mediacontentnavigation" class="yom-mod navigation subnav-overlays" role="navigation" data-ylk="t1:a2;t2:lnav;sec:lnav;">
+    <nav>
+        <ul id="navlist" class="navlist">
+                <li>
+                    <a href="/" data-tags="yfinance:navigation=home" data-cpos="1" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:1;" data-action-outcome="navigate">Finance Home</a>
+                </li>
+                <li>
+                    <a href="/portfolios.html" title="portfolio nav" class="nav-fin-portfolios no-pjax" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:2;" data-action-outcome="navigate">My Portfolio</a>
+                </li>
+                <li>
+                    <a href="/my-quotes-news/" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:3;" data-action-outcome="navigate">My Quotes News</a>
+                </li>
+                <li>
+                    <a href="/market-overview/" data-tags="ynews:mark=yfin-markets" data-cpos="4" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:4;" data-action-outcome="navigate">Market Data</a>
+                </li>
+                <li>
+                    <a href="/yahoofinance/" title="Yahoo Originals" data-tags="ynews:mark=yfin-originals" data-cpos="5" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:5;" data-action-outcome="navigate">Yahoo Originals</a>
+                </li>
+                <li>
+                    <a href="/news/" data-tags="ynews:mark=yfin-business" data-cpos="6" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:6;" data-action-outcome="navigate">Business & Finance</a>
+                </li>
+                <li>
+                    <a href="/personal-finance/" title="Personal Finance" class="&amp;amp;amp;amp;amp;amp;amp;quot;new&amp;amp;amp;amp;amp;amp;amp;quot;" data-tags="ynews:mark=yfin-personal-finance, ynews:mark=yfin-personal" data-cpos="7" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:7;" data-action-outcome="navigate">Personal Finance</a>
+                        <ul class="subnav static">
+                            <li>
+                                <a href="/career-education/" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:1;cat:Personal Finance;">Career & Education</a>
+                            </li>
+                            <li>
+                                <a href="/real-estate/" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:2;cat:Personal Finance;">Real Estate</a>
+                            </li>
+                            <li>
+                                <a href="/retirement/" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:3;cat:Personal Finance;">Retirement</a>
+                            </li>
+                            <li>
+                                <a href="/credit-debt/" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:4;cat:Personal Finance;">Credit & Debt</a>
+                            </li>
+                            <li>
+                                <a href="/taxes/" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:5;cat:Personal Finance;">Taxes</a>
+                            </li>
+                            <li>
+                                <a href="/lifestyle/" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:6;cat:Personal Finance;">Health & Lifestyle</a>
+                            </li>
+                            <li>
+                                <a href="/videos/" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:7;cat:Personal Finance;">Featured Videos</a>
+                            </li>
+                            <li>
+                                <a href="/rates/" class="selected Fw-b no-pjax" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:8;cat:Personal Finance;">Rates in Your Area</a>
+                            </li>
+                            <li>
+                                <a href="/calculator/index/" class="no-pjax" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-2;sec:lnav;elm:itm;elmt:cat;cpos:9;cat:Personal Finance;">Calculators</a>
+                            </li>
+                        </ul>
+                </li>
+                <li>
+                    <a href="/cnbc/" title="Business News from CNBC" data-tags="ynews:mark=yfin-cnbc" data-cpos="8" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:8;" data-action-outcome="navigate">CNBC</a>
+                </li>
+                <li>
+                    <a href="/contributors/" title="Contributors" data-ylk="itc:0;tar:finance.yahoo.com;ct:naventry;rspns:nav;t1:a2;t2:lnav;t3:st;t4:m-1;sec:lnav;elm:itm;elmt:cat;cpos:9;" data-action-outcome="navigate">Contributors</a>
+                </li>
+        </ul>
+    </nav>
+</div>
+                                
+                                <div id="mediadisclaimergs" class="yom-mod yom-app yom-disclaimer">
+    <div class="bd">
+    	<div id="comp_broker" class="fz-3xs">
+    		<a href="/broker-comparison" class="positive-link" data-ylk="t1:a2;t2:dsclm;sec:dsclm;elm:itm;elmt:link;itc:0;rspns:nav;">Compare Brokers</a>
+    	</div>
+    </div>
+</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="yog-fin-middlecol" class="yog-fin-middlecol">
+                        <div id="yog-fin-content" class="yog-fin-content">
+                        
+<!-- START full -->
+
+<!-- START 24 -->
+<div class="yog-wrap yog-full">
+    <div class="yog-col yog-grid yog-24u">
+        <!-- -->
+<div class="yom-remote"><div class="yom-loading" id="mediaquotesetf_container"><!-- --></div></div>
+<?xml version="1.0" encoding="utf-8"?><Root></Root>
+
+    </div>
+</div>    
+
+
+<!-- END 24 -->
+
+
+<!-- END full -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer><div id="yog-ft" class="yog-ft footer">
+                <div id="footer">
+                    
+                    <div class="yom-mod yom-footer-links" id="footer-links">
+                        <div class="bd">
+                            <div class="yog-grid yog-24u">
+                                <div class="yog-wrap">
+                                    <div class="yog-col yog-7u">
+                                        <div class="yom-mod yom-nav-footer" id="nav-footer"><div class="hd"><h2>On This Site</h2></div><div class="bd"><div class="content"><div class="wrap"><ul class="yom-list col first" style="width:50%"><li class="first"><a href="/" title=""><span>Finance Home</span></a></li><li class="nav-fin-portfolios no-pjax"><a href="/portfolios.html" title="portfolio nav"><span>My Portfolio</span></a></li><li><a href="/market-overview/" title=""><span>Market Data</span></a></li><li class="last"><a href="/yahoofinance/" title="Yahoo Originals"><span>Yahoo Originals</span></a></li></ul><ul start="5" class="yom-list col last" style="width:50%"><li class="first"><a href="/news/" title=""><span>Business & Finance</span></a></li><li class="&amp;amp;amp;amp;amp;amp;quot;new&amp;amp;amp;amp;amp;amp;quot;"><a href="/personal-finance/" title="Personal Finance"><span>Personal Finance</span></a></li><li class="nav-fin-cnbc"><a href="/cnbc/" title="Business News from CNBC"><span>CNBC</span></a></li><li class="last"><a href="/contributors/" title="Contributors"><span>Contributors</span></a></li></ul></div></div></div></div>
+                                    </div> 
+                                    <div class="yog-col yog-17u">
+                                        <div class="yog-wrap">
+                                            <div class="yog-col yog-9u first">
+                                                <div class="yom-mod yom-linkbox yom-also-on-yahoo" id="also-on-yahoo"><div class="hd"><h2>Also On Yahoo</h2></div><div class="bd"><div class="content"><div class="wrap"><ul class="yom-list col first" style="width:33.333333333333%"><li class="first"><a href="http://autos.yahoo.com/"><span>Autos</span></a></li><li><a href="http://finance.yahoo.com/"><span>Finance</span></a></li><li><a href="http://games.yahoo.com/"><span>Games</span></a></li><li><a href="http://groups.yahoo.com/"><span>Groups</span></a></li><li class="last"><a href="http://health.yahoo.com/"><span>Health</span></a></li></ul><ul start="6" class="yom-list col" style="width:33.333333333333%"><li class="first"><a href="http://maps.yahoo.com/"><span>Maps</span></a></li><li><a href="http://movies.yahoo.com/"><span>Movies</span></a></li><li><a href="http://music.yahoo.com/"><span>Music</span></a></li><li><a href="http://omg.yahoo.com/"><span>omg!</span></a></li><li class="last"><a href="http://shine.yahoo.com/"><span>Shine</span></a></li></ul><ul start="11" class="yom-list col last" style="width:33.333333333333%"><li class="first"><a href="http://shopping.yahoo.com/"><span>Shopping</span></a></li><li><a href="http://sports.yahoo.com/"><span>Sports</span></a></li><li><a href="http://travel.yahoo.com/"><span>Travel</span></a></li><li><a href="http://tv.yahoo.com/"><span>TV</span></a></li><li class="last"><a href="http://alerts.yahoo.com/"><span>Yahoo Alerts</span></a></li></ul></div></div></div><div class="ft"><a href="http://everything.yahoo.com/" class="more">All Yahoo »</a></div></div>
+                                            </div>
+                                            <div class="yog-col yog-8u last">
+                                                
+                                            </div>
+                                        </div>    
+                                    </div>       
+                                </div>    
+                            </div>    
+                        </div>
+                    </div>
+                                        <div class="yom-mod" id="footer-worldwide">
+                        <div class="bd">
+                            <div class="yog-grid yog-24u">
+				<div class="y-footer">
+			            <h2>Yahoo! Finance Worldwide</h2>
+			            <ul><li><a href="http://ar.finance.yahoo.com">Argentina</a></li><li><a href="http://au.finance.yahoo.com/">Australia</a></li><li><a href="http://br.finance.yahoo.com/">Brazil</a></li><li><a href="http://ca.finance.yahoo.com/">Canada</a></li><li><a href="http://fr.finance.yahoo.com/">France</a></li><li><a href="http://fr-ca.finance.yahoo.com/">French Canada</a></li><li><a href="http://de.finance.yahoo.com/">Germany</a></li><li><a href="http://hk.finance.yahoo.com/">Hong Kong</a></li><li><a href="http://in.finance.yahoo.com/">India</a></li></ul><ul><li><a href="http://it.finance.yahoo.com/">Italy</a></li><li><a href="http://finance.yahoo.co.jp/">Japan</a></li><li><a href="http://mx.finance.yahoo.com/">Mexico</a></li><li><a href="http://nz.finance.yahoo.com/">New Zealand</a></li><li><a href="http://sg.finance.yahoo.com/">Singapore</a></li><li><a href="http://es.finance.yahoo.com/">Spain</a></li><li><a href="http://espanol.finance.yahoo.com/">Spanish</a></li><li><a href="http://tw.stock.yahoo.com/">Taiwan</a></li><li><a href="http://uk.finance.yahoo.com/">UK & Ireland</a></li><li><a href="http://finance.yahoo.com">USA</a></li></ul>	
+				</div>
+                            </div>    
+                        </div>
+                    </div>
+                    <div id="mediafooterinfo" class="yom-mod yom-footer-info" role="contentinfo">
+    <div class="bd">
+        <div class="disclaimer">
+            <cite><a href='http://help.yahoo.com/kb/index?page=content&y=PROD_FIN&locale=en-US&id=SLN2310&pir=Zm7qO7BibUkC.4dK5GxJ95B3DCru2iA5odBNM0pj'>Data Disclaimer</a></cite>
+        </div>
+        <div class="copyright">
+            <span> </span>
+            <ul>
+                <li class="first"><a href="http://help.yahoo.com//l/us/yahoo/finance/">Help</a> / <a href="http://yahoo.uservoice.com/forums/207809">Suggestions</a></li>
+                <li><a href="http://info.yahoo.com/privacy/us/yahoo/">Privacy</a></li>
+                <li><a href="http://info.yahoo.com/relevantads/">About Our Ads</a></li>
+                <li class="last"><a href="http://info.yahoo.com/legal/us/yahoo/utos/utos-173.html">Terms</a></li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
+
+
+                    <div id="footer-disclaimer" class= "yom-mod yom-footer-disclaimer">
+    <div class="bd">
+        <p>Quotes are real-time for NASDAQ, NYSE, and NYSEAmex when available. See also delay times for <a href="http://help.yahoo.com/l/us/yahoo/finance/quotes/fitadelay.html"> other exchanges</a>. Quotes and other information supplied by independent providers identified on the Yahoo! Finance <a href="http://help.yahoo.com/l/us/yahoo/finance/quotes/fitadelay.html">partner page</a>. Quotes are updated automatically, but will be turned off after 25 minutes of inactivity. Quotes are delayed at least 15 minutes. All information provided "as is" for informational purposes only, not intended for trading purposes or advice. Neither Yahoo! nor any of independent providers is liable for any informational errors, incompleteness, or delays, or for any actions taken in reliance on information contained herein. By accessing the Yahoo! site, you agree not to redistribute the information found therein.</p>
+        <p>Fundamental company data provided by <a href="http://www.capitaliq.com/">Capital IQ</a>. Historical chart data and daily updates provided by <a href="http://www.csidata.com">Commodity Systems, Inc. (CSI)</a>. International historical chart data and daily updates provided by <a href="http://www.morningstar.com/">Morningstar, Inc</a>.</p>
+        <p class="fin-ynn">Yahoo! - ABC News Network</p>
+    </div>
+</div>
+                    <!-- SpaceID=0 robot -->
+
+                </div>
+            </div></footer>
+        </div>
+        <script type="text/javascript">YUI.namespace("Media").ads_supp_ugc="";</script>
+<!-- SpaceID=0 robot -->
+
+        
+<script>YMedia.use("media-rmp", function(Y){Y.Media.RMP.load({"srcNode":"#mediamarkettimegs_container","continueOnError":true,"response":"\r\n--dali-response-split-5599a54a08759\r\nContent-Type: text\/plain; charset=utf-8\r\nRMP-Embed-Location: top\r\n\r\n<link rel=\"stylesheet\" type=\"text\/css\" href=\"http:\/\/l.yimg.com\/zz\/combo?os\/mit\/media\/m\/finance\/quote-streaming-gs-min-919aeef.css&os\/mit\/media\/m\/finance\/common-gs-min-12d09cb.css&os\/mit\/media\/m\/finance\/market-time-gs-desktop-min-919aeef.css\" \/>\r\n--dali-response-split-5599a54a08759\r\nContent-Type: text\/plain; charset=utf-8\r\nRMP-Embed-Location: bottom\r\n\r\n<script language=\"javascript\">\n        \nYUI.YUICfg = {\"gallery\":\"yui:gallery-2011.04.20-13-04\",\"groups\":{\"group01c9d8dea06e05460a64eed4dadd622b6\":{\"base\":\"http:\\\/\\\/l.yimg.com\\\/\",\"comboBase\":\"http:\\\/\\\/l.yimg.com\\\/zz\\\/combo?\",\"modules\":{\"media-yfs_l10n_en-US\":{\"path\":\"os\\\/mit\\\/media\\\/m\\\/quotes\\\/yfs_l10n_en-US-min-01dce39.js\"},\"media-quotes-streaming\":{\"path\":\"os\\\/mit\\\/media\\\/m\\\/quotes\\\/quotes-streaming-min-fbb9f53.js\"},\"media-market-time\":{\"path\":\"os\\\/mit\\\/media\\\/m\\\/finance\\\/market-time-min-6affaa4.js\"}},\"combine\":true,\"filter\":\"min\",\"root\":\"\\\/\"}},\"combine\":true,\"allowRollup\":true,\"comboBase\":\"http:\\\/\\\/l.yimg.com\\\/zz\\\/combo?\",\"maxURLLength\":\"2000\"}\nYUI.YUICfg.root='yui:'+YUI.version+'\/build\/';\nYMedia.applyConfig(YUI.YUICfg);\nYUI.Env[YUI.version].base = 'http:\/\/l.yimg.com\/';\nYUI.Env[YUI.version].comboBase = 'http:\/\/l.yimg.com\/zz\/combo?';\nYUI.Env[YUI.version].root = 'yui:'+YUI.version+'\/build\/';\nYUI.Env.add(window, \"load\", function(){\nYMedia.use(\"media-yfs_l10n_en-US\",\"media-quotes-streaming\",\"media-market-time\",function(Y){\n          \n    Y.later(10, this, function() {setTimeout(YUI.Finance.Streaming.init, 5000);\n    });\n    Y.later(10, this, function() {new Y.Media.MarketTime({\n                        'mod_id': 'mediaquotesetf',\n                        'indices_url': '\/_xhr\/markettimeindices\/',\n                        'show_indices': 0,\n                        'tickers': '',\n                        'names': ''\n                    });\n    });\n    Y.later(10, this, function() {(function(){ var rapid = YMedia.rapid; if (rapid) { rapid.addModules(\"mediamarkettimegs\"); } }());\n    });\n});\n});\n        \n        <\/script>\r\n--dali-response-split-5599a54a08759\r\nContent-Type: text\/html; charset=utf-8\r\n\r\n<div id=\"mediamarkettimegs\" class=\"yom-mod yom-app yom-market-time fin-glass-disabled\">\n    <div class='bd Fz-xs Ov-h'>\n        <span id='yfs_market_time' class='fin-market-time base-txt-color Va-b'>Sun, Jul 5, 2015, 5:44 PM EDT - U.S. Markets closed<\/span>        <div class='mt-indices D-ib Fz-s SlowTrans Op-0'><\/div>\n    <\/div>\n\n    <script>\n        YUI().use(function (Y) {\n            \/\/ Set doc.domin for all browsers except IE6 and 7 when domain is finance.yahoo.com\n            \/\/ This is required for streaming and darla\n            try {\n                if ( !(( Y.UA.ie == 6  || Y.UA.ie == 7 ) && document.domain == 'finance.yahoo.com' )) {\n                    document.domain = 'finance.yahoo.com';\n                    window.DOC_DOMAIN_SET = 1;\n                }\n            } catch(e) {\n                \/\/Do nothing\n            }\n        });\n\n        yfs_common_params = {\n            \"market\" : {\n                \"NAME\" : \"\",\n                \"ID\" : \"US\",\n                \"TZ\" : \"ET\",\n                \"STDTZ_TAG\": \"EST\",\n                \"DSTTZ_TAG\": \"EDT\",\n                \"TZOFFSET\" : \"-18000\",\n                \"open\" : \"\",\n                \"close\" : \"\",\n                \"flags\" : \"\"\n            },\n            \"STREAMER_SERVER\": \"\/\/streamerapi.finance.yahoo.com\" ,\n            \"arrowAsChangeSign\": false ,\n            \"throttleInterval\": \"1000\",\n            \"localize\": \"0\" ,\n            \"region\": \"US\",\n            \"lang\": \"en-US\",\n            \"mu\": \"1\" ,\n            \"up_arrow_icon\": \"http:\/\/l.yimg.com\/a\/i\/us\/fi\/03rd\/up_g.gif\" ,\n            \"down_arrow_icon\": \"http:\/\/l.yimg.com\/a\/i\/us\/fi\/03rd\/down_r.gif\" ,\n            \"up_color\": \"green\" ,\n            \"down_color\": \"red\",\n            \"pass_market_id\": \"0\",\n            \"market_status_yrb\":\"YFT_MARKET_WILL_CLOSE\",\n            \"DOC_DOMAIN\": \"finance.yahoo.com\",\n            \"useXHR\": \"1\"\n        }\n    <\/script>\n\n    \n<\/div>\r\n--dali-response-split-5599a54a08759--\r\n"});});</script><!-- fe288.global.media.bf1.yahoo.com uncompressed/chunked Sun Jul  5 21:44:41 UTC 2015 -->
+
+<script>YMedia.use("media-rmp", "media-viewport-loader", function(Y){Y.Global.Media.ViewportLoader.addContainers([{selector: "#mediaquotesetf_container",callback: function (node) {Y.Media.RMP.load({"srcNode":"#mediaquotesetf_container","continueOnError":true,"response":"\r\n--dali-response-split-5599a54a1ccde\r\nContent-Type: text\/plain; charset=utf-8\r\nRMP-Embed-Location: top\r\n\r\n<link rel=\"stylesheet\" type=\"text\/css\" href=\"http:\/\/l.yimg.com\/zz\/combo?os\/mit\/media\/m\/finance\/table-min-5db1ed3.css&os\/mit\/media\/m\/pagination\/pagination-min-1656503.css\" \/>\r\n--dali-response-split-5599a54a1ccde\r\nContent-Type: text\/plain; charset=utf-8\r\nRMP-Embed-Location: bottom\r\n\r\n<script language=\"javascript\">\n        \nYUI.YUICfg = {\"gallery\":\"yui:gallery-2011.04.20-13-04\",\"groups\":{\"group01c9d8dea06e05460a64eed4dadd622b6\":{\"base\":\"http:\\\/\\\/l.yimg.com\\\/\",\"comboBase\":\"http:\\\/\\\/l.yimg.com\\\/zz\\\/combo?\",\"modules\":{\"media-fund-loaddata\":{\"path\":\"os\\\/mit\\\/media\\\/m\\\/finance\\\/fund-loaddata-min-53d9f50.js\"}},\"combine\":true,\"filter\":\"min\",\"root\":\"\\\/\"}},\"combine\":true,\"allowRollup\":true,\"comboBase\":\"http:\\\/\\\/l.yimg.com\\\/zz\\\/combo?\",\"maxURLLength\":\"2000\"}\nYUI.YUICfg.root='yui:'+YUI.version+'\/build\/';\nYMedia.applyConfig(YUI.YUICfg);\nYUI.Env[YUI.version].base = 'http:\/\/l.yimg.com\/';\nYUI.Env[YUI.version].comboBase = 'http:\/\/l.yimg.com\/zz\/combo?';\nYUI.Env[YUI.version].root = 'yui:'+YUI.version+'\/build\/';\nYMedia.use(\"media-fund-loaddata\",\"event\",\"tabview\",function(Y){\n          \n    Y.later(10, this, function() {new Y.Media.FundLoadData({\n                                        'modId':'mediaquotesetf',\n                                        'noTabs':'6'\n                                    });});\n           \n});\n\nYUI.Env.add(window, \"load\", function(){\nYMedia.use(\"\",function(Y){\n          \n    Y.later(10, this, function() {(function(){ var rapid = YMedia.rapid; if (rapid) { rapid.addModules(\"mediaquotesetf\"); } }());\n    });\n});\n});\n        \n        <\/script>\r\n--dali-response-split-5599a54a1ccde\r\nContent-Type: text\/html; charset=utf-8\r\n\r\n<div class=\"yom-mod yfi_table etf\" id=\"mediaquotesetf\"><div class=\"hd\"><h3>ETF Finder<\/h3><span class=\"mod_time\">All non-intraday data as of: 31-May-2015<\/span><\/div><div class=\"bd\">            <div class=\"yfi-table-body yui3-widget yui3-tabview\">\n                            <div class=\"yfi-table-prepanel\">\n                    <label for='cat'>Category:<\/label><select id='cat' name='fund_category'><option value='all' >All<\/option><option value='$FECA$AL$$' >Aggressive Allocation<\/option><option value='$FECA$BL$$' >Bank Loan<\/option><option value='$FECA$BM$$' >Bear Market<\/option><option value='$FECA$CH$$' >China Region<\/option><option value='$FECA$AA$$' >Commodities Agriculture<\/option><option value='$FECA$BB$$' >Commodities Broad Basket<\/option><option value='$FECA$CE$$' >Commodities Energy<\/option><option value='$FECA$IM$$' >Commodities Industrial Metals<\/option><option value='$FECA$CM$$' >Commodities Miscellaneous<\/option><option value='$FECA$CP$$' >Commodities Precious Metals<\/option><option value='$FECA$SC$$' >Communications<\/option><option value='$FECA$CA$$' >Conservative Allocation<\/option><option value='$FECA$CD$$' >Consumer Cyclical<\/option><option value='$FECA$CC$$' >Consumer Defensive<\/option><option value='$FECA$CV$$' >Convertibles<\/option><option value='$FECA$TW$$' >Corporate Bond<\/option><option value='$FECA$EM$$' >Diversified Emerging Mkts<\/option><option value='$FECA$DP$$' >Diversified Pacific\/Asia<\/option><option value='$FECA$EB$$' >Emerging Markets Bond<\/option><option value='$FECA$LP$$' >Energy Limited Partnership<\/option><option value='$FECA$EE$$' >Equity Energy<\/option><option value='$FECA$SP$$' >Equity Precious Metals<\/option><option value='$FECA$ES$$' >Europe Stock<\/option><option value='$FECA$SF$$' >Financial<\/option><option value='$FECA$FB$$' >Foreign Large Blend<\/option><option value='$FECA$FG$$' >Foreign Large Growth<\/option><option value='$FECA$FV$$' >Foreign Large Value<\/option><option value='$FECA$FQ$$' >Foreign Small\/Mid Blend<\/option><option value='$FECA$FR$$' >Foreign Small\/Mid Growth<\/option><option value='$FECA$FA$$' >Foreign Small\/Mid Value<\/option><option value='$FECA$GR$$' >Global Real Estate<\/option><option value='$FECA$SH$$' >Health<\/option><option value='$FECA$HY$$' >High Yield Bond<\/option><option value='$FECA$HM$$' >High Yield Muni<\/option><option value='$FECA$EI$$' >India Equity<\/option><option value='$FECA$ID$$' >Industrials<\/option><option value='$FECA$IP$$' >Inflation-Protected Bond<\/option><option value='$FECA$GI$$' >Intermediate Government<\/option><option value='$FECA$CI$$' >Intermediate-Term Bond<\/option><option value='$FECA$JS$$' >Japan Stock<\/option><option value='$FECA$LB$$' >Large Blend<\/option><option value='$FECA$LG$$' >Large Growth<\/option><option value='$FECA$LV$$' >Large Value<\/option><option value='$FECA$LS$$' >Latin America Stock<\/option><option value='$FECA$GL$$' >Long Government<\/option><option value='$FECA$CL$$' >Long-Term Bond<\/option><option value='$FECA$LO$$' >Long\/Short Equity<\/option><option value='$FECA$13$$' >Managed Futures<\/option><option value='$FECA$NE$$' >Market Neutral<\/option><option value='$FECA$MB$$' >Mid-Cap Blend<\/option><option value='$FECA$MG$$' >Mid-Cap Growth<\/option><option value='$FECA$MV$$' >Mid-Cap Value<\/option><option value='$FECA$MQ$$' >Miscellaneous Region<\/option><option value='$FECA$MR$$' >Miscellaneous Sector<\/option><option value='$FECA$MA$$' >Moderate Allocation<\/option><option value='$FECA$GY$$' >Multialternative<\/option><option value='$FECA$CR$$' >Multicurrency<\/option><option value='$FECA$MF$$' >Muni California Intermediate<\/option><option value='$FECA$MC$$' >Muni California Long<\/option><option value='$FECA$MI$$' >Muni National Interm<\/option><option value='$FECA$ML$$' >Muni National Long<\/option><option value='$FECA$MS$$' >Muni National Short<\/option><option value='$FECA$MN$$' >Muni New York Intermediate<\/option><option value='$FECA$MY$$' >Muni New York Long<\/option><option value='$FECA$SN$$' >Natural Resources<\/option><option value='$FECA$NT$$' >Nontraditional Bond<\/option><option value='$FECA$PJ$$' >Pacific\/Asia ex-Japan Stk<\/option><option value='$FECA$RR$$' >Preferred Stock<\/option><option value='$FECA$SR$$' >Real Estate<\/option><option value='$FECA$GS$$' >Short Government<\/option><option value='$FECA$CS$$' >Short-Term Bond<\/option><option value='$FECA$FX$$' >Single Currency<\/option><option value='$FECA$SB$$' >Small Blend<\/option><option value='$FECA$SG$$' >Small Growth<\/option><option value='$FECA$SV$$' >Small Value<\/option><option value='$FECA$TV$$' >Tactical Allocation<\/option><option value='$FECA$ST$$' >Technology<\/option><option value='$FECA$IC$$' >Trading-Inverse Commodities<\/option><option value='$FECA$ND$$' >Trading-Inverse Debt<\/option><option value='$FECA$IE$$' >Trading-Inverse Equity<\/option><option value='$FECA$LC$$' >Trading-Leveraged Commodities<\/option><option value='$FECA$VD$$' >Trading-Leveraged Debt<\/option><option value='$FECA$LE$$' >Trading-Leveraged Equity<\/option><option value='$FECA$IS$$' >Trading-Miscellaneous<\/option><option value='$FECA$UB$$' >Ultrashort Bond<\/option><option value='$FECA$SU$$' >Utilities<\/option><option value='$FECA$VO$$' >Volatility<\/option><option value='$FECA$IH$$' >World Allocation<\/option><option value='$FECA$IB$$' >World Bond<\/option><option value='$FECA$WS$$' >World Stock<\/option><\/select><label for='ff'>Fund Family:<\/label><select id='ff' name='fund_family'><option value='all' >All<\/option><option value='0C0000AX2O' >AccuShares\u2122<\/option><option value='0C00004HZR' >AdvisorShares<\/option><option value='0C00009AH4' >AlphaClone<\/option><option value='0C00001Z5B' >AlphaMark<\/option><option value='0C00001Z4B' >ALPS<\/option><option value='0C00001HTG' >ALPS ETF<\/option><option value='0C0000ACJZ' >ARK ETF Trust<\/option><option value='0C00009C7Q' >ArrowShares<\/option><option value='0C00001YX8' >Barclays<\/option><option value='0C00009CP3' >Barclays Funds<\/option><option value='0C0000ASPH' >Bio Shares<\/option><option value='0C00001YQ6' >Calamos<\/option><option value='0C00009CXM' >CAMBRIA ETF TRUST<\/option><option value='0C000034E5' >Citigroup<\/option><option value='0C00001YQG' >Columbia<\/option><option value='0C0000ACK5' >Compass EMP Funds<\/option><option value='0C00001MK8' >Credit Suisse AG<\/option><option value='0C0000AKNW' >Deutsche Asset & Wealth Management<\/option><option value='0C00000AXM' >Deutsche Bank AG<\/option><option value='0C000031J3' >Diamond Hill<\/option><option value='0C00001IA5' >Direxion Funds<\/option><option value='0C0000A46X' >ELEMENTS<\/option><option value='0C00001FYB' >Emerging Global Advisors<\/option><option value='0C0000APTK' >ETF Securities<\/option><option value='0C00009ECR' >ETF Series Trust<\/option><option value='0C00004BRP' >ETFS Platinum Trust<\/option><option value='0C00004HWH' >ETFS Precious Metals Basket Trust<\/option><option value='0C00003GM2' >ETFS Silver Trust<\/option><option value='0C0000A4AJ' >ETFS Swiss Gold Trust<\/option><option value='0C00008G0K' >ETFS White Metals Basket Trust<\/option><option value='0C000093CM' >Exchange Traded Concepts Trust<\/option><option value='0C00008WAC' >Exchange Traded Concepts, LLC<\/option><option value='0C00001YR0' >Fidelity Investments<\/option><option value='0C00001ZPA' >First Trust<\/option><option value='0C0000927U' >Flexshares Trust<\/option><option value='0C00004AKN' >Franklin Templeton Investments<\/option><option value='0C000021O8' >Global X Funds<\/option><option value='0C00001YRF' >Goldman Sachs<\/option><option value='0C00004AKU' >GreenHaven<\/option><option value='0C00001AHV' >Guggenheim Investments<\/option><option value='0C00001Z16' >Highland Funds<\/option><option value='0C00009CJJ' >Horizons ETFs<\/option><option value='0C00008FNF' >Huntington Strategy Shares<\/option><option value='0C00001Z51' >IndexIQ<\/option><option value='0C0000AQYQ' >InfraCap<\/option><option value='0C0000A4NK' >Innovator Funds<\/option><option value='0C00004AL1' >iShares<\/option><option value='0C00001YRR' >JPMorgan<\/option><option value='0C0000A6KM' >KraneShares<\/option><option value='0C00009FDU' >LocalShares<\/option><option value='0C0000A46S' >Market Vectors<\/option><option value='0C0000AT20' >Master Shares<\/option><option value='0C00001Z21' >Merk Funds<\/option><option value='0C00001YSY' >Pax World<\/option><option value='0C00004ALK' >PIMCO<\/option><option value='0C000023YB' >PowerShares<\/option><option value='0C0000AADD' >PowerShares DB<\/option><option value='0C00008VNC' >Precidian Funds LLC<\/option><option value='0C00003IHW' >ProShares<\/option><option value='0C0000AQYW' >Pure Funds<\/option><option value='0C00009EYM' >QuantShares<\/option><option value='0C0000AIVP' >Reality Shares ETF Trust<\/option><option value='0C0000A4OF' >Renaissance Capital<\/option><option value='0C00002Z67' >RevenueShares<\/option><option value='0C0000AUZE' >RISE<\/option><option value='0C000008UN' >Royal Bank Of Canada<\/option><option value='0C000051AE' >Royal Bank of Scotland NV<\/option><option value='0C000033BK' >Russell Investments<\/option><option value='0C00009UPE' >Schwab ETFs<\/option><option value='0C00009TSS' >SPDR State Street Global Advisors<\/option><option value='0C0000556M' >Teucrium<\/option><option value='0C0000AQ5Q' >TrimTabs<\/option><option value='0C00001Z01' >U.S. Global Investors<\/option><option value='0C00000CSM' >UBS Group AG<\/option><option value='0C00001SIM' >United States Commodity Funds LLC<\/option><option value='0C0000AR8Q' >valueshares<\/option><option value='0C00001YUF' >Vanguard<\/option><option value='0C00009VXD' >Vident Financial<\/option><option value='0C000091ZR' >WBI Investments<\/option><option value='0C00004AM7' >WisdomTree<\/option><\/select>\n                <\/div>\n            <div class=\"yfi-panel-container tabview-content\">\n                <ul class=\"yui3-tabview-list tabs\"><li class=\"yui3-tab yui3-widget \"><a href=\"?mod_id=mediaquotesetf&tab=tab1&rcnt=20\" class=\"yui3-tab-label yui3-tab-content \" id=\"tab1\">Return (Mkt)<\/a><\/li><li class=\"yui3-tab yui3-widget \"><a href=\"?mod_id=mediaquotesetf&tab=tab2&rcnt=20\" class=\"yui3-tab-label yui3-tab-content \" id=\"tab2\">Return (NAV)<\/a><\/li><li class=\"yui3-tab yui3-widget  yui3-tab-selected\"><a href=\"?mod_id=mediaquotesetf&tab=tab3&rcnt=20\" class=\"yui3-tab-label yui3-tab-content \" id=\"tab3\">Trading\/Volume<\/a><\/li><li class=\"yui3-tab yui3-widget \"><a href=\"?mod_id=mediaquotesetf&tab=tab4&rcnt=20\" class=\"yui3-tab-label yui3-tab-content \" id=\"tab4\">Holdings<\/a><\/li><li class=\"yui3-tab yui3-widget \"><a href=\"?mod_id=mediaquotesetf&tab=tab5&rcnt=20\" class=\"yui3-tab-label yui3-tab-content \" id=\"tab5\">Risk<\/a><\/li><li class=\"yui3-tab yui3-widget \"><a href=\"?mod_id=mediaquotesetf&tab=tab6&rcnt=20\" class=\"yui3-tab-label yui3-tab-content \" id=\"tab6\">Operations<\/a><\/li><\/ul>\n                <div class=\"panel yui3-tabview-panel\">\n                    <div class=\"yfi-table-container \">\n                    <table><colgroup><col><col><col><col><col><col><col><col><col><\/colgroup><thead><tr><th id=\"table-72-0-0\" class=\"fname\" scope=\"col\"><span>ETF Name<\/span><\/th>\n<th id=\"table-72-0-1\" class=\"tkr\" scope=\"col\"><span>Ticker<\/span><\/th>\n<th id=\"table-72-0-2\" class=\"cat\" scope=\"col\"><span>Category<\/span><\/th>\n<th id=\"table-72-0-3\" class=\"ffly\" scope=\"col\"><span>Fund Family<\/span><\/th>\n<th id=\"table-72-0-4\" class=\"volint  selected\" scope=\"col\"><a href='?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=asc&rcnt=20' id='colhead'>Volume (Intraday)<\/a><a href='?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=asc&rcnt=20' id='colsort' class='sort desc'><\/a><\/th>\n<th id=\"table-72-0-5\" class=\"vol3m\" scope=\"col\"><a href='?mod_id=mediaquotesetf&tab=tab3&scol=vol3m&stype=desc&rcnt=20' id='colhead'>Volume (3-MO Avg)<\/a><\/th>\n<th id=\"table-72-0-6\" class=\"ltrde\" scope=\"col\"><a href='?mod_id=mediaquotesetf&tab=tab3&scol=ltrde&stype=desc&rcnt=20' id='colhead'>Last Trade<\/a><\/th>\n<th id=\"table-72-0-7\" class=\"high52\" scope=\"col\"><a href='?mod_id=mediaquotesetf&tab=tab3&scol=high52&stype=desc&rcnt=20' id='colhead'>52-Week High<\/a><\/th>\n<th id=\"table-72-0-8\" class=\"low52\" scope=\"col\"><a href='?mod_id=mediaquotesetf&tab=tab3&scol=low52&stype=desc&rcnt=20' id='colhead'>52-Week Low<\/a><\/th><\/tr><\/thead><tbody><tr><td class=\"fname\" headers=\"table-72-0-0 \">VelocityShares 3x Long Natural Gas ETN<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=UGAZ\" data-ylk=\"lt:s;\">UGAZ<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$LC$$\" data-ylk=\"lt:s;\">Trading-Leveraged Commodities<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00001MK8\" data-ylk=\"lt:s;\">Credit Suisse AG<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>105,391,525<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>2.14<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">SPDR\u00ae S&P 500 ETF<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=SPY\" data-ylk=\"lt:s;\">SPY<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$LB$$\" data-ylk=\"lt:s;\">Large Blend<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00009TSS\" data-ylk=\"lt:s;\">SPDR State Street Global Advisors<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>104,373,652<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>207.31<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">iPath\u00ae S&P 500 VIX ST Futures\u2122 ETN<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=VXX\" data-ylk=\"lt:s;\">VXX<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$VO$$\" data-ylk=\"lt:s;\">Volatility<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00009CP3\" data-ylk=\"lt:s;\">Barclays Funds<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>81,602,027<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>19.94<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">VelocityShares 3x Long Crude Oil ETN<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=UWTI\" data-ylk=\"lt:s;\">UWTI<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$LC$$\" data-ylk=\"lt:s;\">Trading-Leveraged Commodities<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00001MK8\" data-ylk=\"lt:s;\">Credit Suisse AG<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>54,227,158<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>2.8<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">Market Vectors\u00ae Gold Miners ETF<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=GDX\" data-ylk=\"lt:s;\">GDX<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$SP$$\" data-ylk=\"lt:s;\">Equity Precious Metals<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C0000A46S\" data-ylk=\"lt:s;\">Market Vectors<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>35,636,567<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>17.62<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">iShares MSCI Emerging Markets<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=EEM\" data-ylk=\"lt:s;\">EEM<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$EM$$\" data-ylk=\"lt:s;\">Diversified Emerging Mkts<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00004AZV\" data-ylk=\"lt:s;\">iShares<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>34,085,776<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>39.8<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">iShares Russell 2000<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=IWM\" data-ylk=\"lt:s;\">IWM<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$SB$$\" data-ylk=\"lt:s;\">Small Blend<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00004AZV\" data-ylk=\"lt:s;\">iShares<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>31,486,357<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>123.78<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">VelocityShares Daily Inverse VIX ST ETN<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=XIV\" data-ylk=\"lt:s;\">XIV<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$VO$$\" data-ylk=\"lt:s;\">Volatility<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00001MK8\" data-ylk=\"lt:s;\">Credit Suisse AG<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>26,043,104<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>40.59<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">VelocityShares 3x Inv Natural Gas ETN<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=DGAZ\" data-ylk=\"lt:s;\">DGAZ<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$IC$$\" data-ylk=\"lt:s;\">Trading-Inverse Commodities<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00001MK8\" data-ylk=\"lt:s;\">Credit Suisse AG<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>23,132,997<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>5.66<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">iShares MSCI EAFE<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=EFA\" data-ylk=\"lt:s;\">EFA<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$FB$$\" data-ylk=\"lt:s;\">Foreign Large Blend<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00004AZV\" data-ylk=\"lt:s;\">iShares<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>20,988,505<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>63.98<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">Financial Select Sector SPDR\u00ae ETF<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=XLF\" data-ylk=\"lt:s;\">XLF<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$SF$$\" data-ylk=\"lt:s;\">Financial<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00009TSS\" data-ylk=\"lt:s;\">SPDR State Street Global Advisors<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>19,562,536<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>387<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">ProShares Ultra VIX Short-Term Futures<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=UVXY\" data-ylk=\"lt:s;\">UVXY<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$VO$$\" data-ylk=\"lt:s;\">Volatility<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00003IHW\" data-ylk=\"lt:s;\">ProShares<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>18,792,619<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>42.56<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">United States Oil ETF<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=USO\" data-ylk=\"lt:s;\">USO<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$CE$$\" data-ylk=\"lt:s;\">Commodities Energy<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00001SIM\" data-ylk=\"lt:s;\">United States Commodity Funds LLC<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>18,402,453<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>18.94<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">Direxion Daily Gold Miners Bull 3X ETF<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=NUGT\" data-ylk=\"lt:s;\">NUGT<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$LE$$\" data-ylk=\"lt:s;\">Trading-Leveraged Equity<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00001IA5\" data-ylk=\"lt:s;\">Direxion Funds<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>15,984,626<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>7.88<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">iShares China Large-Cap<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=FXI\" data-ylk=\"lt:s;\">FXI<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$CH$$\" data-ylk=\"lt:s;\">China Region<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00004AZV\" data-ylk=\"lt:s;\">iShares<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>15,883,776<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>45.82<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">iShares MSCI Japan<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=EWJ\" data-ylk=\"lt:s;\">EWJ<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$JS$$\" data-ylk=\"lt:s;\">Japan Stock<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00004AZV\" data-ylk=\"lt:s;\">iShares<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>13,394,819<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>12.9<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">VelocityShares Daily 2x VIX ST ETN<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=TVIX\" data-ylk=\"lt:s;\">TVIX<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$VO$$\" data-ylk=\"lt:s;\">Volatility<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00001MK8\" data-ylk=\"lt:s;\">Credit Suisse AG<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>12,223,493<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>9.3<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">Industrial Select Sector SPDR\u00ae ETF<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=XLI\" data-ylk=\"lt:s;\">XLI<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$ID$$\" data-ylk=\"lt:s;\">Industrials<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00009TSS\" data-ylk=\"lt:s;\">SPDR State Street Global Advisors<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>10,477,834<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>849.98<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">Energy Select Sector SPDR\u00ae ETF<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=XLE\" data-ylk=\"lt:s;\">XLE<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$EE$$\" data-ylk=\"lt:s;\">Equity Energy<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00009TSS\" data-ylk=\"lt:s;\">SPDR State Street Global Advisors<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>9,700,239<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>74.53<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr>\n<tr><td class=\"fname\" headers=\"table-72-0-0 \">Utilities Select Sector SPDR\u00ae ETF<\/td>\n<td class=\"tkr\" headers=\"table-72-0-1 \"><a href=\"\/q?s=XLU\" data-ylk=\"lt:s;\">XLU<\/a><\/td>\n<td class=\"cat\" headers=\"table-72-0-2 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&cat=$FECA$SU$$\" data-ylk=\"lt:s;\">Utilities<\/a><\/td>\n<td class=\"ffly\" headers=\"table-72-0-3 \"><a href=\" http:\/\/finance.yahoo.com\/etf\/lists\/?mod_id=mediaquotesetf&tab=tab3&ff=0C00009TSS\" data-ylk=\"lt:s;\">SPDR State Street Global Advisors<\/a><\/td>\n<td class=\"volint  selected align\" headers=\"table-72-0-4 \"><span>9,575,445<\/span><\/td>\n<td class=\"vol3m  align\" headers=\"table-72-0-5 \">N\/A<\/td>\n<td class=\"ltrde  align\" headers=\"table-72-0-6 \"><span>42.26<\/span><\/td>\n<td class=\"high52  align\" headers=\"table-72-0-7 \">N\/A<\/td>\n<td class=\"low52  align\" headers=\"table-72-0-8 \">N\/A<\/td><\/tr><\/tbody><\/table>\n                                    <div class=\"yfi-table-pagination\">\n                    <div class=\"yfi-table-rcount yom-mod yom-pagination\">\n                        <div class=\"yfi-table-rccontainer\">\n                            <div class=\"hd\">RESULTS PER PAGE:<\/div>\n                            <div class=\"bd\">\n                            <span class='table-rcount '.>20<\/span><span><a href='?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=50' class='table-rcount '.>50<\/a><\/span><span><a href='?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=100' class='table-rcount '.last>100<\/a><\/span>\n                            <\/div>\n                            <input type=\"hidden\" id=\"table_rcount\" value='20'\/>\n                        <\/div>\n                    <\/div>\n                    <div class=\"yom-mod yom-pagination yom-pagination1\"><div class=\"hd a11y\"><h4>Pagination<\/h4><\/div><div class=\"bd\"><ol class=\"pages\"><li><strong class=\"disabled\">1<\/strong><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=2\">2<\/a><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=3\">3<\/a><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=4\">4<\/a><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=5\">5<\/a><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=6\">6<\/a><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=7\">7<\/a><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=8\">8<\/a><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=9\">9<\/a><\/li><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=10\">10<\/a><\/li><\/ol><ul class=\"future\"><li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=2\" class=\"yom-button next\"><span class=\"icon icon-arrow-next-1\">Next<\/span><\/a><\/li> <li><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=11\" class=\"yom-button next\">+10<\/a><\/li>  <li class=\"last\"><a href=\"?mod_id=mediaquotesetf&tab=tab3&scol=volint&stype=desc&rcnt=20&page=78\" class=\"yom-button last\"><span class=\"icon icon-arrow-last-1\">Last<\/span><\/a><\/li><\/ul><\/div><div class=\"ft\">(1,542 Items)<\/div><\/div>\n                <\/div>\n                    <\/div>\n                <\/div>\n            <\/div>\n            <\/div><\/div><\/div>\n\r\n--dali-response-split-5599a54a1ccde--\r\n"});}}]);});</script><!-- fe292.global.media.bf1.yahoo.com uncompressed/chunked Sun Jul  5 21:44:41 UTC 2015 -->
+
+
+        <script language="javascript">
+        
+YUI.YUICfg = {"gallery":"yui:gallery-2011.04.20-13-04","groups":{"group01c9d8dea06e05460a64eed4dadd622b6":{"base":"http:\/\/l.yimg.com\/","comboBase":"http:\/\/l.yimg.com\/zz\/combo?","modules":{"ylt-strip":{"path":"ss\/strip_3.4.js"},"media-watchlist-base":{"path":"os\/mit\/media\/m\/finance\/watchlist-base-min-240ac0f.js"},"media-watchlist-gs":{"path":"os\/mit\/media\/m\/finance\/watchlist-gs-min-8a3c5b2.js"},"media-follow-quote":{"path":"os\/mit\/media\/m\/finance\/follow-quote-min-8559ad0.js"},"media-quotes-search-gs":{"path":"os\/mit\/media\/m\/quotes\/quotes-search-gs-min-edf8574.js"},"media-ylc":{"path":"os\/mit\/media\/p\/common\/ylc-min-56d3a2e.js"},"media-trfsm":{"path":"os\/mit\/media\/p\/common\/trfsm-min-56d3a2e.js"},"media-i13n":{"path":"os\/mit\/media\/p\/common\/i13n-min-56d3a2e.js"},"media-ywa-tracking":{"path":"os\/mit\/media\/p\/common\/ywa-tracking-min-56d3a2e.js"},"media-content-navigation-desktop":{"path":"os\/mit\/media\/m\/navigation\/content-navigation-desktop-min-990c8d3.js"},"media-ywa":{"path":"os\/mit\/media\/p\/common\/ywa\/ywa-min-56d3a2e.js"},"media-footer":{"path":"os\/mit\/media\/m\/footer\/footer-min-1adbfba.js"},"media-tracking":{"path":"os\/mit\/media\/m\/base\/tracking-min-649ba6f.js"}},"combine":true,"filter":"min","root":"\/"}},"combine":true,"allowRollup":true,"comboBase":"http:\/\/l.yimg.com\/zz\/combo?","maxURLLength":"2000"}
+YUI.YUICfg.root='yui:'+YUI.version+'/build/';
+YMedia.applyConfig(YUI.YUICfg);
+YUI.Env[YUI.version].base = 'http://l.yimg.com/';
+YUI.Env[YUI.version].comboBase = 'http://l.yimg.com/zz/combo?';
+YUI.Env[YUI.version].root = 'yui:'+YUI.version+'/build/';
+YMedia.use("ylt-strip","media-watchlist-base","media-watchlist-gs","media-follow-quote","media-quotes-search-gs","node","event","collection","json","intl","autocomplete","datasource-get","cookie",function(Y){
+          
+    Y.later(10, this, function() {if (window.LH !== undefined) {
+                                if ( !window.LH.isInitialized) {
+                                    if (window.location.href.indexOf('showaft=') != -1 || Math.floor(Math.random()*100)<=6 || 0) {
+                                        window.LH.init(
+                                        {
+                                            spaceid:'1183331882', 
+                                            serverip:'', 
+                                            pvid:'', 
+                                            crumb:''
+                                        });
+                                    }
+                                }
+                                
+                                if (window.LH.isInitialized && window.YAFT !== undefined) {
+                                    var ___aftMaxWaitTime___ = 4500,
+                                        ___lhOnContentType___ = 1,
+                                        ___lhContentType___ = 'page',
+                                        ___lhNPageExcludes___ = 'MAST,LDBR',
+                                        ___yaftConfig___,
+                                        ___lhReccord = function (ma, va) {
+                                            window.LH.record(ma, { name: ma, type: 'mark', startTime: Math.round(va), duration: 0 });
+                                        };
+
+                                    if ('') {
+                                        window.LH.tag("b", 
+                                        {
+                                            val: ''
+                                        });
+                                    } else if ( ___lhOnContentType___ === 1 && (___lhContentType___ == 'story' || ___lhContentType___ == 'slideshow')) {
+                                        window.LH.tag("b", 
+                                        {
+                                            val: 'GSUS_'+___lhContentType___
+                                        });
+                                    }
+
+                                    ___yaftConfig___ = {
+                                        generateHAR: true,
+                                        modules: ['yom-ad-','mediacontent','applet_','GS-UH', 'p_30345786_container','mediasports','mediafinance','mediastation','mediaautos','mediaweather','mediahomes','mediatumblr','mediascore','mediagettheapp'],
+                                        modulesExclude: ['/*[A-Za-z]_container','_wrapper','yom-ad-FOOT','yom-ad-SDARLAEXTRA'],
+                                        useNativeStartRender: 0 ? true : false,
+                                        canShowVisualReport: 0 ? true : false,
+                                        maxWaitTime: ___aftMaxWaitTime___,
+                                        plugins: [
+                                            {
+                                                name: 'aftnoad',
+                                                isPre: true,
+                                                config: {
+                                                    useNormalizeCoverage: true,
+                                                    adModules:['yom-ad-']
+                                                }
+                                            }
+                                        ]
+                                    };
+
+                                    if (0) {
+                                        ___yaftConfig___.plugins.push({
+                                                name: 'har',
+                                                config: {
+                                                    sec: 'har',
+                                                    rapid: (YMedia && YMedia.rapid) ? YMedia.rapid : null,
+                                                    aftThreshold: 10000 ? 10000 : 15000
+                                                }
+                                        });
+                                    }
+
+                                    window.YAFT.init( ___yaftConfig___, function (data, error) {
+                                        var allAdPos = window.___allAdsPos___, i, norPage = 1, aft;
+                                        if (!error) {
+                                            aft = Math.round(data.aft);
+                                            ___lhReccord('AFT', aft);
+                                            ___lhReccord('AFT1', aft);
+                                            ___lhReccord('AFTNOAD', Math.round(data.aftNoAd));
+                                            ___lhReccord('VIC', data.visuallyComplete);
+                                            ___lhReccord('STR', data.startRender);
+                                            if ( window.___adLT___ !== undefined && window.___adLT___.length && window.___adLT___.length > 0) {
+                                                for (i = 0; i < ___adLT___.length; i+=1) {
+                                                    ___lhReccord(___adLT___[i][0], ___adLT___[i][1]);
+                                                }
+                                            }
+
+                                            if (___lhNPageExcludes___ && ___lhNPageExcludes___ != '0' && ___lhNPageExcludes___.length && allAdPos && allAdPos.length) {
+                                                for (i = 0; i < allAdPos.length; i+=1) {
+                                                    if (___lhNPageExcludes___.indexOf(allAdPos[i]) != -1) {
+                                                        norPage = 0;
+                                                        break;
+                                                    }
+                                                }
+                                                if (norPage) {
+                                                    ___lhReccord('xAFT', aft);
+                                                    ___lhReccord('xPLT', data.pageLoadTime);
+                                                }
+                                            }
+
+                                            window.LH.beacon( {
+                                                clearMarks:false, clearMeasures: false, clearCustomEntries: true, clearTags: false
+                                            });
+                                        }
+                                    });
+
+                                }
+                            }});
+    Y.later(10, this, function() {/** reuse the current header timer**/
+
+window._sf_startpt=t_headstart;
+
+window._sf_async_config={};
+/** CONFIGURATION START **/
+
+window._sf_async_config.uid = 54992;
+window._sf_async_config.domain = 'finance.yahoo.com';
+window._sf_async_config.useCanonical = true;
+window._sf_async_config.sections = 'personalfinance|ratesinyourarea';
+window._sf_async_config.authors = '';
+/** CONFIGURATION END **/
+
+(function(){
+    function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', 'https://s1.yimg.com/cd/assets/chartbeat_yahoo.js '); 
+        document.body.appendChild(e);
+    }
+	if (Math.floor(Math.random()*100)<=50) {
+	    if(window.addEventListener)window.addEventListener('load',loadChartbeat,0);
+	        else if(window.attachEvent)window.attachEvent('onload',loadChartbeat);
+	}
+})();});
+    Y.later(10, this, function() {Y.Array.each(YMedia.module_includes, function(inc, i, ar){ if(Y.Lang.isFunction(inc)) { inc(Y); ar[i] = null; } });});
+    Y.later(10, this, function() {Y.Media.FollowQuote.init({
+                        'xhrBase': '/',
+                        'lang': 'en-US',
+                        'region': 'US',
+                        'tickerUrlPattern': '/q?s=',
+                        'bucketCode': '' 
+                    });
+
+                    new Y.Media.WatchlistGS({
+                    'mod_id': 'mediaquotesetf',
+                    'data_xhr': '/_xhr/watchlist-data/',
+                    'timeout': "15000",
+                    'refresh_mod' :[{
+                            'mod_id' : 'td-applet-related-videos',
+                            'instance_id' :'b9a05e05-e47c-3e30-a9f3-f88869ee109e',
+                            'src_node' : '#td-applet-related-videos_container',
+                            'sig' : 'sigVideo',
+                            'params': {'mode' : 'myquotes'}
+                        },{
+                            'mod_id' : 'td-applet-stream',
+                            'instance_id' :'853ad91f-487f-389b-8650-c3ba83c72c5e',
+                            'src_node' : '#td-applet-stream_container',
+                            'sig' : 'sigStream',
+                            'params': {'ads_se' :'4492794', 'category': 'YCUSTOM:MYQUOTES', 'timeout': '2000', 'finance_use_default': '1','header':'0'}
+                        }]
+                    });});
+    Y.later(10, this, function() {Y.Media.FollowQuote.init({
+                        'xhrBase': '/',
+                        'lang': 'en-US',
+                        'region': 'US'
+                    });
+
+                    new YAHOO.Media.SymbolSuggestGS({
+                        'acInputFormId' : '#mediaquotesetf',
+                        'dsServer' : 'http://d.yimg.com/aq/autoc',
+                        'spaceId'  : '1183331882',
+                        'region' : 'US',
+                        'lang' : 'en-US',
+                        'quotesPage' : '/q',
+                        'quotesLookup' : '/lookup?s=',
+                        'showAllResultsStr': 'Show all results for {0}',
+                        'focusOnInput':'0',
+			'device' : 'full'
+                    });});
+           
+});
+
+YUI.Env.add(window, "load", function(){
+YMedia.use("media-rmp","media-ylc","media-trfsm","base","jsonp","media-i13n","media-ywa-tracking","media-content-navigation-desktop","node-base","node-event-delegate","overlay","stencil-tooltip","event-base","media-ywa","json-parse","media-footer","cookie","media-tracking",function(Y){
+          
+    Y.later(10, this, function() {Y.Array.each(YMedia.includes, function(inc, i, ar){ if(Y.Lang.isFunction(inc)) { inc(Y); ar[i] = null; } });
+    });
+    Y.later(10, this, function() {Y.Global.Media.ILBoot.initImageLoader(true);
+    });
+    Y.later(10, this, function() {(function() {
+                                                    var configUrl = 'http://l.yimg.com/os/assets/globalmedia/traffic/traffic-simulation.js',
+                                                        simulator = new Y.Media.TrafficSimulator({ 'dataUrl' : configUrl });
+                                                    simulator.load();
+                                                })();
+    });
+    Y.later(10, this, function() {try {
+                                        YMEDIA_REQ_ATTR.csbeacon();
+                                    } catch (e) {
+                                    }
+    });
+    Y.later(10, this, function() {
+			//Set doc.domin for all browsers except IE6 and 7 when domain is finance.yahoo.com
+			// This is required for streaming and darla
+			try{
+                            if ( !(( Y.UA.ie == 6  || Y.UA.ie ==7 ) && document.domain == 'finance.yahoo.com' )) {
+                               document.domain='finance.yahoo.com';
+			       window.DOC_DOMAIN_SET = 1;
+                            }
+			} catch(e) {
+			    //Do nothing
+			}
+                    
+    });
+    Y.later(10, this, function() {new Y.Media.ContentNavigation({
+                            config: {
+                                modId: 'mediacontentnavigation',
+                                disableSubnavOverlay: 0,
+                                rapidTimer: 748,
+                                enableStencilNav: 0
+                            },
+                            chrome: Y.Media.pageChrome
+                         });
+    });
+    Y.later(10, this, function() {Y.namespace("Media").ywaSettings = '"projectId": "10001840545256", "documentName": "", "documentGroup": "Investing Centers", "ywaColo" : "large", "spaceId" : "1183331882"';
+                       	Y.Media.YWA.init_ywa_module(Y.namespace("Media").ywaSettings);
+    });
+    Y.later(10, this, function() {if(Y.Media.Footer) var footer = Y.Media.Footer(Y,{footerInfoSelector:"#mediafooterinfo",currentDeviceType:"full",projectId:"",enableYwaTracking:"0"});
+    });
+});
+});
+        
+        </script>
+
+
+
+                                    <script>
+                                    (function(r) {
+                                        if(! r) { return; }
+
+                                        if(typeof YMEDIA_REQ_ATTR === 'object' && typeof YMEDIA_REQ_ATTR.instr === 'object') {
+                                            r.rapidConfig.keys        = r.rapidConfig.keys || {};
+                                            r.rapidConfig.keys.authfb = YMEDIA_REQ_ATTR.instr.authfb;
+                                            r.rapidConfig.keys.rid    = YMEDIA_REQ_ATTR.instr.request_id;
+                                        }
+
+                                        if(typeof r.initRapid === 'function') {
+                                            r.initRapid();
+                                        } else if(YAHOO && YAHOO.i13n && YAHOO.i13n.Rapid) {
+                                            // media-rapid-tracking not ready, init Rapid adhoc
+                                            r.rapidConfig.tracked_mods = typeof r.rapidConfig.tracked_mods === 'object' && r.rapidConfig.tracked_mods.concat(r.moduleQueue) || r.moduleQueue;
+                                            r.moduleQueue = [];
+                                            r.rapidInstance = new YAHOO.i13n.Rapid(r.rapidConfig);
+                                            YAHOO.i13n.currentSID = typeof r.rapidInstance.getCurrentSID  === 'function' ? r.rapidInstance.getCurrentSID() : null;
+                                        }
+
+                                    }(YMedia.rapid));
+                                    </script>
+                                
+        
+        
+        
+	
+        
+        
+    </body>
+</html>
+
+<!-- fe233.global.media.bf1.yahoo.com uncompressed/chunked Sun Jul  5 21:44:41 UTC 2015 -->
+
+<!-- fe185.global.media.bf1.yahoo.com uncompressed/chunked Sun Jul  5 21:44:41 UTC 2015 -->
