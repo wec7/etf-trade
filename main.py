@@ -9,7 +9,7 @@ def find_validETF(filename):
     ls_etf = []
     ls_rsi = []
     ls_bbd = []
-    for etf in get_ETFSymbols('Yahoo'):
+    for etf in get_ETFSymbols('Nasdaq'):
         try:
             price = read_yahooData(etf)
         except IOError:

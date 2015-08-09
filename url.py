@@ -1,4 +1,5 @@
 import urllib2
+import pandas
 
 def read_page():
     response = urllib2.urlopen('http://finance.yahoo.com/etf/lists/?mod_id=mediaquotesetf&tab=tab3&rcnt=50')
@@ -13,5 +14,5 @@ def parse_page(the_page):
 def get_ETFSymbols(source):
     if source.lower() == 'yahoo':
         return parse_page(read_page())
-    elif source.lower == 'nasdaq':
+    elif source.lower() == 'nasdaq':
         return pandas.read_csv('http://www.nasdaq.com/investing/etfs/etf-finder-results.aspx?download=Yes')['Symbol'].values

@@ -6,7 +6,8 @@ from email.utils import COMMASPACE, formatdate
 from email import encoders
 
 SUBSCRIBE_LIST = [
-    'weiyi.alan.chen@gmail.com'
+    'weiyi.alan.chen@gmail.com',
+    'wchen7@baml.com'
 ]
 
 def email_login():
